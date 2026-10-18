@@ -1,0 +1,1504 @@
+book,page,avg_sentence_length,avg_word_length,long_word_ratio,unique_word_ratio
+The Lost World - Arthur Conan Doyle.pdf,3,15.4,4.448,0.182,0.578
+The Lost World - Arthur Conan Doyle.pdf,5,10.333,4.984,0.274,0.871
+The Lost World - Arthur Conan Doyle.pdf,6,5.476,4.165,0.183,0.757
+The Lost World - Arthur Conan Doyle.pdf,8,30.444,4.398,0.197,0.62
+The Lost World - Arthur Conan Doyle.pdf,9,15.067,4.131,0.164,0.546
+The Lost World - Arthur Conan Doyle.pdf,10,8.853,3.691,0.106,0.532
+The Lost World - Arthur Conan Doyle.pdf,11,13.452,3.669,0.103,0.472
+The Lost World - Arthur Conan Doyle.pdf,12,10.471,3.699,0.093,0.531
+The Lost World - Arthur Conan Doyle.pdf,13,21.412,4.121,0.115,0.547
+The Lost World - Arthur Conan Doyle.pdf,14,10.167,4.108,0.157,0.561
+The Lost World - Arthur Conan Doyle.pdf,15,10.032,4.145,0.164,0.576
+The Lost World - Arthur Conan Doyle.pdf,16,8.643,4.65,0.242,0.664
+The Lost World - Arthur Conan Doyle.pdf,17,12.133,4.173,0.159,0.585
+The Lost World - Arthur Conan Doyle.pdf,18,13.083,4.433,0.22,0.548
+The Lost World - Arthur Conan Doyle.pdf,19,12.308,4.134,0.166,0.572
+The Lost World - Arthur Conan Doyle.pdf,20,13.45,4.576,0.238,0.639
+The Lost World - Arthur Conan Doyle.pdf,21,14.889,4.082,0.164,0.612
+The Lost World - Arthur Conan Doyle.pdf,22,16.6,4.512,0.199,0.617
+The Lost World - Arthur Conan Doyle.pdf,23,10.568,3.992,0.156,0.54
+The Lost World - Arthur Conan Doyle.pdf,24,13.808,4.334,0.178,0.585
+The Lost World - Arthur Conan Doyle.pdf,25,8.486,4.232,0.172,0.603
+The Lost World - Arthur Conan Doyle.pdf,26,10.45,3.983,0.144,0.543
+The Lost World - Arthur Conan Doyle.pdf,27,10.848,4.056,0.145,0.564
+The Lost World - Arthur Conan Doyle.pdf,28,7.533,3.987,0.142,0.637
+The Lost World - Arthur Conan Doyle.pdf,29,7.387,3.917,0.127,0.611
+The Lost World - Arthur Conan Doyle.pdf,30,7.947,4.086,0.126,0.579
+The Lost World - Arthur Conan Doyle.pdf,31,13.774,4.307,0.166,0.578
+The Lost World - Arthur Conan Doyle.pdf,32,7.033,4.043,0.147,0.573
+The Lost World - Arthur Conan Doyle.pdf,33,24.833,4.391,0.208,0.526
+The Lost World - Arthur Conan Doyle.pdf,34,21.65,4.356,0.194,0.55
+The Lost World - Arthur Conan Doyle.pdf,35,11.517,4.317,0.183,0.581
+The Lost World - Arthur Conan Doyle.pdf,36,10.031,4.025,0.156,0.555
+The Lost World - Arthur Conan Doyle.pdf,37,12.5,4.126,0.154,0.517
+The Lost World - Arthur Conan Doyle.pdf,38,12.48,4.01,0.131,0.538
+The Lost World - Arthur Conan Doyle.pdf,39,12.931,4.475,0.203,0.552
+The Lost World - Arthur Conan Doyle.pdf,40,10.033,4.233,0.199,0.532
+The Lost World - Arthur Conan Doyle.pdf,41,14.833,4.25,0.199,0.517
+The Lost World - Arthur Conan Doyle.pdf,42,12.4,4.04,0.145,0.535
+The Lost World - Arthur Conan Doyle.pdf,43,15.069,4.403,0.217,0.57
+The Lost World - Arthur Conan Doyle.pdf,44,12.68,4.278,0.174,0.59
+The Lost World - Arthur Conan Doyle.pdf,45,9.97,3.866,0.131,0.52
+The Lost World - Arthur Conan Doyle.pdf,46,9.241,4.034,0.146,0.623
+The Lost World - Arthur Conan Doyle.pdf,47,12.179,4.287,0.196,0.625
+The Lost World - Arthur Conan Doyle.pdf,48,28.938,4.566,0.201,0.57
+The Lost World - Arthur Conan Doyle.pdf,49,19.167,4.417,0.202,0.539
+The Lost World - Arthur Conan Doyle.pdf,50,19.25,4.569,0.218,0.538
+The Lost World - Arthur Conan Doyle.pdf,51,11.97,4.734,0.251,0.595
+The Lost World - Arthur Conan Doyle.pdf,52,18.577,4.66,0.24,0.549
+The Lost World - Arthur Conan Doyle.pdf,53,10.977,4.335,0.184,0.542
+The Lost World - Arthur Conan Doyle.pdf,54,14.12,4.697,0.244,0.51
+The Lost World - Arthur Conan Doyle.pdf,55,11.839,4.161,0.163,0.564
+The Lost World - Arthur Conan Doyle.pdf,56,18.632,4.452,0.206,0.602
+The Lost World - Arthur Conan Doyle.pdf,57,28.867,4.462,0.18,0.587
+The Lost World - Arthur Conan Doyle.pdf,58,11.5,3.499,0.072,0.519
+The Lost World - Arthur Conan Doyle.pdf,59,16.222,3.683,0.1,0.516
+The Lost World - Arthur Conan Doyle.pdf,60,12.226,3.752,0.106,0.573
+The Lost World - Arthur Conan Doyle.pdf,61,15.5,3.856,0.11,0.538
+The Lost World - Arthur Conan Doyle.pdf,62,23.182,3.992,0.129,0.535
+The Lost World - Arthur Conan Doyle.pdf,63,21.652,4.199,0.169,0.556
+The Lost World - Arthur Conan Doyle.pdf,64,17.455,4.302,0.156,0.536
+The Lost World - Arthur Conan Doyle.pdf,65,24.05,4.628,0.231,0.565
+The Lost World - Arthur Conan Doyle.pdf,66,29.5,4.46,0.186,0.557
+The Lost World - Arthur Conan Doyle.pdf,67,20.667,4.613,0.207,0.602
+The Lost World - Arthur Conan Doyle.pdf,68,22.421,4.38,0.188,0.566
+The Lost World - Arthur Conan Doyle.pdf,69,11.407,4.081,0.13,0.568
+The Lost World - Arthur Conan Doyle.pdf,70,14.8,4.376,0.189,0.576
+The Lost World - Arthur Conan Doyle.pdf,71,16.84,4.306,0.159,0.565
+The Lost World - Arthur Conan Doyle.pdf,72,30.062,4.345,0.183,0.522
+The Lost World - Arthur Conan Doyle.pdf,73,24.4,4.344,0.21,0.555
+The Lost World - Arthur Conan Doyle.pdf,74,22.9,4.393,0.181,0.55
+The Lost World - Arthur Conan Doyle.pdf,75,35.571,4.594,0.187,0.576
+The Lost World - Arthur Conan Doyle.pdf,76,15.391,4.452,0.161,0.61
+The Lost World - Arthur Conan Doyle.pdf,77,18.682,4.572,0.202,0.56
+The Lost World - Arthur Conan Doyle.pdf,78,16.231,4.355,0.156,0.54
+The Lost World - Arthur Conan Doyle.pdf,79,19.636,4.535,0.199,0.588
+The Lost World - Arthur Conan Doyle.pdf,80,15.545,4.424,0.205,0.567
+The Lost World - Arthur Conan Doyle.pdf,81,25.562,4.743,0.227,0.621
+The Lost World - Arthur Conan Doyle.pdf,82,29.375,4.377,0.179,0.594
+The Lost World - Arthur Conan Doyle.pdf,83,14.538,3.995,0.14,0.548
+The Lost World - Arthur Conan Doyle.pdf,84,15.174,4.203,0.166,0.564
+The Lost World - Arthur Conan Doyle.pdf,85,21.5,4.347,0.177,0.542
+The Lost World - Arthur Conan Doyle.pdf,86,28.062,4.145,0.149,0.546
+The Lost World - Arthur Conan Doyle.pdf,87,16.217,4.424,0.19,0.534
+The Lost World - Arthur Conan Doyle.pdf,88,15.583,4.385,0.171,0.586
+The Lost World - Arthur Conan Doyle.pdf,89,15.0,4.145,0.129,0.543
+The Lost World - Arthur Conan Doyle.pdf,90,16.182,4.309,0.163,0.573
+The Lost World - Arthur Conan Doyle.pdf,91,16.042,4.171,0.135,0.556
+The Lost World - Arthur Conan Doyle.pdf,92,23.765,4.327,0.163,0.542
+The Lost World - Arthur Conan Doyle.pdf,93,24.053,4.151,0.142,0.536
+The Lost World - Arthur Conan Doyle.pdf,94,22.19,4.242,0.148,0.554
+The Lost World - Arthur Conan Doyle.pdf,95,16.167,4.505,0.196,0.588
+The Lost World - Arthur Conan Doyle.pdf,96,18.0,4.399,0.175,0.579
+The Lost World - Arthur Conan Doyle.pdf,97,23.588,4.416,0.18,0.556
+The Lost World - Arthur Conan Doyle.pdf,98,11.8,4.164,0.141,0.545
+The Lost World - Arthur Conan Doyle.pdf,99,15.174,4.009,0.132,0.562
+The Lost World - Arthur Conan Doyle.pdf,100,20.2,4.186,0.139,0.572
+The Lost World - Arthur Conan Doyle.pdf,101,12.6,4.124,0.14,0.558
+The Lost World - Arthur Conan Doyle.pdf,102,14.821,3.971,0.101,0.525
+The Lost World - Arthur Conan Doyle.pdf,103,14.714,4.252,0.155,0.522
+The Lost World - Arthur Conan Doyle.pdf,104,17.0,3.885,0.12,0.5
+The Lost World - Arthur Conan Doyle.pdf,105,22.667,4.171,0.156,0.568
+The Lost World - Arthur Conan Doyle.pdf,106,15.28,4.466,0.196,0.61
+The Lost World - Arthur Conan Doyle.pdf,107,25.278,4.244,0.141,0.525
+The Lost World - Arthur Conan Doyle.pdf,108,13.103,3.987,0.116,0.55
+The Lost World - Arthur Conan Doyle.pdf,109,21.421,4.501,0.187,0.595
+The Lost World - Arthur Conan Doyle.pdf,110,13.815,4.332,0.145,0.555
+The Lost World - Arthur Conan Doyle.pdf,111,19.952,4.408,0.186,0.568
+The Lost World - Arthur Conan Doyle.pdf,112,15.346,4.048,0.105,0.561
+The Lost World - Arthur Conan Doyle.pdf,113,21.727,4.316,0.172,0.538
+The Lost World - Arthur Conan Doyle.pdf,114,28.8,4.454,0.171,0.6
+The Lost World - Arthur Conan Doyle.pdf,115,19.524,4.232,0.161,0.554
+The Lost World - Arthur Conan Doyle.pdf,116,19.042,4.066,0.125,0.549
+The Lost World - Arthur Conan Doyle.pdf,117,13.524,4.275,0.162,0.616
+The Lost World - Arthur Conan Doyle.pdf,118,32.0,4.367,0.19,0.557
+The Lost World - Arthur Conan Doyle.pdf,119,14.429,4.389,0.163,0.606
+The Lost World - Arthur Conan Doyle.pdf,120,11.909,3.944,0.14,0.542
+The Lost World - Arthur Conan Doyle.pdf,121,16.696,4.362,0.198,0.549
+The Lost World - Arthur Conan Doyle.pdf,122,17.381,4.532,0.205,0.608
+The Lost World - Arthur Conan Doyle.pdf,123,25.625,4.641,0.234,0.532
+The Lost World - Arthur Conan Doyle.pdf,124,27.375,4.386,0.18,0.553
+The Lost World - Arthur Conan Doyle.pdf,125,17.091,4.226,0.176,0.54
+The Lost World - Arthur Conan Doyle.pdf,126,22.526,4.409,0.213,0.533
+The Lost World - Arthur Conan Doyle.pdf,127,21.091,4.028,0.147,0.541
+The Lost World - Arthur Conan Doyle.pdf,128,17.6,3.936,0.123,0.507
+The Lost World - Arthur Conan Doyle.pdf,129,23.15,4.251,0.175,0.508
+The Lost World - Arthur Conan Doyle.pdf,130,13.381,4.313,0.185,0.598
+The Lost World - Arthur Conan Doyle.pdf,131,13.48,4.294,0.169,0.585
+The Lost World - Arthur Conan Doyle.pdf,132,8.917,3.916,0.084,0.636
+The Lost World - Arthur Conan Doyle.pdf,133,17.522,4.203,0.154,0.561
+The Lost World - Arthur Conan Doyle.pdf,134,17.615,4.264,0.168,0.537
+The Lost World - Arthur Conan Doyle.pdf,135,23.0,4.128,0.147,0.505
+The Lost World - Arthur Conan Doyle.pdf,136,21.955,4.041,0.139,0.489
+The Lost World - Arthur Conan Doyle.pdf,137,21.238,4.258,0.159,0.534
+The Lost World - Arthur Conan Doyle.pdf,138,23.143,4.298,0.175,0.51
+The Lost World - Arthur Conan Doyle.pdf,139,17.321,4.229,0.148,0.536
+The Lost World - Arthur Conan Doyle.pdf,140,16.633,4.0,0.12,0.503
+The Lost World - Arthur Conan Doyle.pdf,141,22.15,4.33,0.178,0.499
+The Lost World - Arthur Conan Doyle.pdf,142,15.548,4.114,0.141,0.504
+The Lost World - Arthur Conan Doyle.pdf,143,21.381,4.376,0.171,0.514
+The Lost World - Arthur Conan Doyle.pdf,144,10.588,4.031,0.106,0.533
+The Lost World - Arthur Conan Doyle.pdf,145,18.421,4.131,0.137,0.554
+The Lost World - Arthur Conan Doyle.pdf,146,16.4,3.823,0.1,0.533
+The Lost World - Arthur Conan Doyle.pdf,147,10.923,3.798,0.085,0.523
+The Lost World - Arthur Conan Doyle.pdf,148,15.333,3.939,0.133,0.507
+The Lost World - Arthur Conan Doyle.pdf,149,16.267,3.816,0.078,0.514
+The Lost World - Arthur Conan Doyle.pdf,150,16.364,3.904,0.117,0.47
+The Lost World - Arthur Conan Doyle.pdf,151,14.9,4.034,0.112,0.568
+The Lost World - Arthur Conan Doyle.pdf,152,16.067,3.965,0.102,0.531
+The Lost World - Arthur Conan Doyle.pdf,153,22.05,4.138,0.143,0.551
+The Lost World - Arthur Conan Doyle.pdf,154,17.286,4.364,0.159,0.517
+The Lost World - Arthur Conan Doyle.pdf,155,14.448,4.315,0.167,0.556
+The Lost World - Arthur Conan Doyle.pdf,156,13.607,4.283,0.155,0.575
+The Lost World - Arthur Conan Doyle.pdf,157,11.0,4.074,0.128,0.623
+The Lost World - Arthur Conan Doyle.pdf,158,14.5,4.488,0.207,0.685
+The Lost World - Arthur Conan Doyle.pdf,159,21.714,4.296,0.125,0.566
+The Lost World - Arthur Conan Doyle.pdf,160,25.056,4.441,0.2,0.552
+The Lost World - Arthur Conan Doyle.pdf,161,18.583,4.036,0.13,0.529
+The Lost World - Arthur Conan Doyle.pdf,162,20.24,4.099,0.132,0.536
+The Lost World - Arthur Conan Doyle.pdf,163,22.19,4.094,0.118,0.515
+The Lost World - Arthur Conan Doyle.pdf,164,28.235,4.371,0.165,0.544
+The Lost World - Arthur Conan Doyle.pdf,165,16.138,3.957,0.124,0.532
+The Lost World - Arthur Conan Doyle.pdf,166,19.474,4.184,0.162,0.589
+The Lost World - Arthur Conan Doyle.pdf,167,16.885,4.424,0.182,0.576
+The Lost World - Arthur Conan Doyle.pdf,168,22.762,4.063,0.111,0.525
+The Lost World - Arthur Conan Doyle.pdf,169,19.304,4.367,0.176,0.547
+The Lost World - Arthur Conan Doyle.pdf,170,17.44,4.291,0.158,0.55
+The Lost World - Arthur Conan Doyle.pdf,171,27.929,4.194,0.156,0.506
+The Lost World - Arthur Conan Doyle.pdf,172,26.125,4.612,0.199,0.56
+The Lost World - Arthur Conan Doyle.pdf,173,26.0,4.502,0.194,0.547
+The Lost World - Arthur Conan Doyle.pdf,174,32.312,4.246,0.141,0.545
+The Lost World - Arthur Conan Doyle.pdf,175,37.846,4.209,0.142,0.551
+The Lost World - Arthur Conan Doyle.pdf,176,28.0,4.059,0.111,0.542
+The Lost World - Arthur Conan Doyle.pdf,177,9.893,4.094,0.152,0.592
+The Lost World - Arthur Conan Doyle.pdf,178,25.941,4.306,0.179,0.553
+The Lost World - Arthur Conan Doyle.pdf,179,12.815,4.153,0.173,0.552
+The Lost World - Arthur Conan Doyle.pdf,180,17.615,4.236,0.175,0.513
+The Lost World - Arthur Conan Doyle.pdf,181,23.529,4.06,0.14,0.555
+The Lost World - Arthur Conan Doyle.pdf,182,11.559,3.908,0.13,0.489
+The Lost World - Arthur Conan Doyle.pdf,183,10.414,4.023,0.126,0.56
+The Lost World - Arthur Conan Doyle.pdf,184,18.8,4.196,0.143,0.532
+The Lost World - Arthur Conan Doyle.pdf,185,16.5,4.185,0.14,0.551
+The Lost World - Arthur Conan Doyle.pdf,186,26.222,4.275,0.169,0.483
+The Lost World - Arthur Conan Doyle.pdf,187,30.091,4.825,0.254,0.622
+The Lost World - Arthur Conan Doyle.pdf,188,21.6,4.75,0.227,0.556
+The Lost World - Arthur Conan Doyle.pdf,189,30.733,4.861,0.267,0.538
+The Lost World - Arthur Conan Doyle.pdf,190,21.105,4.805,0.247,0.561
+The Lost World - Arthur Conan Doyle.pdf,191,13.679,4.875,0.277,0.538
+The Lost World - Arthur Conan Doyle.pdf,192,10.658,4.575,0.217,0.551
+The Lost World - Arthur Conan Doyle.pdf,193,17.154,4.715,0.235,0.527
+The Lost World - Arthur Conan Doyle.pdf,194,14.962,4.663,0.247,0.519
+The Lost World - Arthur Conan Doyle.pdf,195,13.639,4.399,0.167,0.521
+The Lost World - Arthur Conan Doyle.pdf,196,20.696,4.426,0.193,0.548
+The Lost World - Arthur Conan Doyle.pdf,197,18.346,4.08,0.117,0.556
+The Lost World - Arthur Conan Doyle.pdf,198,8.394,3.69,0.061,0.545
+The Lost World - Arthur Conan Doyle.pdf,199,12.92,4.368,0.195,0.582
+The Lost World - Arthur Conan Doyle.pdf,200,15.111,3.892,0.11,0.51
+The Lost World - Arthur Conan Doyle.pdf,201,13.857,4.052,0.113,0.732
+The Lost World - Arthur Conan Doyle.pdf,203,15.357,5.093,0.33,0.498
+The Lost World - Arthur Conan Doyle.pdf,204,13.885,4.748,0.252,0.368
+The Lost World - Arthur Conan Doyle.pdf,205,15.76,4.838,0.261,0.411
+The Lost World - Arthur Conan Doyle.pdf,206,7.83,4.821,0.277,0.386
+The Lost World - Arthur Conan Doyle.pdf,207,16.5,4.773,0.297,0.421
+The Lost World - Arthur Conan Doyle.pdf,208,14.28,5.053,0.305,0.457
+The Lost World - Arthur Conan Doyle.pdf,209,15.318,5.338,0.371,0.487
+The Lost World - Arthur Conan Doyle.pdf,210,14.048,5.441,0.38,0.505
+The Lost World - Arthur Conan Doyle.pdf,211,11.682,5.315,0.335,0.607
+alicesadventurescarroll.pdf,13,16.5,4.455,0.167,0.864
+alicesadventurescarroll.pdf,14,24.5,4.194,0.143,0.776
+alicesadventurescarroll.pdf,15,13.8,4.159,0.145,0.812
+alicesadventurescarroll.pdf,17,4.375,3.786,0.1,0.786
+alicesadventurescarroll.pdf,20,33.333,4.065,0.145,0.605
+alicesadventurescarroll.pdf,21,25.875,3.986,0.092,0.551
+alicesadventurescarroll.pdf,22,15.231,3.914,0.121,0.611
+alicesadventurescarroll.pdf,23,11.941,3.862,0.103,0.635
+alicesadventurescarroll.pdf,24,17.25,3.623,0.043,0.575
+alicesadventurescarroll.pdf,25,27.286,3.686,0.047,0.607
+alicesadventurescarroll.pdf,26,41.667,4.12,0.104,0.672
+alicesadventurescarroll.pdf,27,27.0,3.772,0.069,0.64
+alicesadventurescarroll.pdf,28,59.0,3.966,0.085,0.746
+alicesadventurescarroll.pdf,29,16.75,4.052,0.119,0.679
+alicesadventurescarroll.pdf,30,31.5,4.122,0.116,0.614
+alicesadventurescarroll.pdf,31,23.667,3.784,0.103,0.573
+alicesadventurescarroll.pdf,33,11.5,4.246,0.145,0.841
+alicesadventurescarroll.pdf,34,16.182,3.736,0.101,0.691
+alicesadventurescarroll.pdf,35,16.833,3.787,0.104,0.639
+alicesadventurescarroll.pdf,37,16.286,3.482,0.088,0.513
+alicesadventurescarroll.pdf,38,16.875,4.222,0.17,0.711
+alicesadventurescarroll.pdf,39,16.357,3.546,0.048,0.563
+alicesadventurescarroll.pdf,40,21.0,3.981,0.119,0.586
+alicesadventurescarroll.pdf,41,16.8,3.786,0.119,0.774
+alicesadventurescarroll.pdf,42,19.9,3.834,0.095,0.528
+alicesadventurescarroll.pdf,43,11.8,3.932,0.102,0.65
+alicesadventurescarroll.pdf,44,20.6,3.66,0.068,0.748
+alicesadventurescarroll.pdf,45,12.294,3.617,0.057,0.608
+alicesadventurescarroll.pdf,46,23.667,3.718,0.07,0.697
+alicesadventurescarroll.pdf,48,21.778,3.872,0.082,0.607
+alicesadventurescarroll.pdf,49,9.105,4.179,0.145,0.578
+alicesadventurescarroll.pdf,50,16.0,3.896,0.135,0.62
+alicesadventurescarroll.pdf,51,22.333,3.836,0.095,0.617
+alicesadventurescarroll.pdf,52,11.533,3.977,0.098,0.59
+alicesadventurescarroll.pdf,54,21.444,3.896,0.093,0.58
+alicesadventurescarroll.pdf,55,19.8,3.465,0.071,0.687
+alicesadventurescarroll.pdf,56,8.333,4.023,0.109,0.629
+alicesadventurescarroll.pdf,57,10.211,3.84,0.103,0.686
+alicesadventurescarroll.pdf,58,13.0,3.846,0.1,0.708
+alicesadventurescarroll.pdf,59,11.0,3.939,0.141,0.717
+alicesadventurescarroll.pdf,60,18.0,3.843,0.106,0.636
+alicesadventurescarroll.pdf,61,20.4,3.73,0.044,0.608
+alicesadventurescarroll.pdf,62,25.125,3.766,0.08,0.597
+alicesadventurescarroll.pdf,63,17.0,3.776,0.082,0.718
+alicesadventurescarroll.pdf,64,17.455,3.714,0.104,0.578
+alicesadventurescarroll.pdf,65,13.929,3.933,0.097,0.585
+alicesadventurescarroll.pdf,66,9.769,3.898,0.079,0.669
+alicesadventurescarroll.pdf,67,10.778,3.665,0.062,0.608
+alicesadventurescarroll.pdf,68,10.895,3.493,0.048,0.589
+alicesadventurescarroll.pdf,69,12.625,3.97,0.069,0.752
+alicesadventurescarroll.pdf,70,16.154,3.748,0.09,0.586
+alicesadventurescarroll.pdf,71,24.75,3.833,0.106,0.586
+alicesadventurescarroll.pdf,72,25.375,3.97,0.089,0.601
+alicesadventurescarroll.pdf,74,33.5,3.93,0.095,0.622
+alicesadventurescarroll.pdf,75,19.889,3.927,0.117,0.575
+alicesadventurescarroll.pdf,77,12.615,3.933,0.14,0.573
+alicesadventurescarroll.pdf,78,10.375,4.325,0.163,0.62
+alicesadventurescarroll.pdf,79,11.643,4.117,0.141,0.632
+alicesadventurescarroll.pdf,80,19.333,4.707,0.207,0.914
+alicesadventurescarroll.pdf,81,32.0,4.406,0.188,0.859
+alicesadventurescarroll.pdf,82,20.667,4.742,0.177,0.839
+alicesadventurescarroll.pdf,83,9.429,4.561,0.197,0.955
+alicesadventurescarroll.pdf,84,10.529,4.162,0.145,0.575
+alicesadventurescarroll.pdf,85,15.417,4.103,0.135,0.546
+alicesadventurescarroll.pdf,86,19.222,3.798,0.098,0.595
+alicesadventurescarroll.pdf,87,25.375,3.926,0.084,0.586
+alicesadventurescarroll.pdf,88,11.6,3.914,0.132,0.609
+alicesadventurescarroll.pdf,89,10.778,3.696,0.103,0.598
+alicesadventurescarroll.pdf,90,25.375,3.773,0.118,0.581
+alicesadventurescarroll.pdf,91,19.2,3.839,0.099,0.661
+alicesadventurescarroll.pdf,92,21.0,4.133,0.162,0.733
+alicesadventurescarroll.pdf,93,18.667,3.839,0.071,0.821
+alicesadventurescarroll.pdf,94,17.7,4.164,0.164,0.633
+alicesadventurescarroll.pdf,95,17.5,3.794,0.103,0.651
+alicesadventurescarroll.pdf,96,10.938,3.851,0.12,0.651
+alicesadventurescarroll.pdf,97,13.75,4.164,0.164,0.818
+alicesadventurescarroll.pdf,98,17.8,3.938,0.129,0.601
+alicesadventurescarroll.pdf,99,18.3,4.055,0.137,0.661
+alicesadventurescarroll.pdf,100,17.8,3.882,0.101,0.646
+alicesadventurescarroll.pdf,101,8.273,4.319,0.121,0.692
+alicesadventurescarroll.pdf,102,21.0,3.729,0.081,0.59
+alicesadventurescarroll.pdf,103,19.1,3.832,0.084,0.607
+alicesadventurescarroll.pdf,104,19.0,3.865,0.113,0.669
+alicesadventurescarroll.pdf,105,17.9,3.816,0.106,0.609
+alicesadventurescarroll.pdf,106,9.941,3.521,0.036,0.533
+alicesadventurescarroll.pdf,107,5.75,3.522,0.087,0.696
+alicesadventurescarroll.pdf,108,14.917,3.782,0.095,0.603
+alicesadventurescarroll.pdf,109,13.0,3.538,0.06,0.667
+alicesadventurescarroll.pdf,110,19.0,3.789,0.113,0.699
+alicesadventurescarroll.pdf,111,15.0,3.895,0.124,0.676
+alicesadventurescarroll.pdf,112,11.133,3.796,0.072,0.587
+alicesadventurescarroll.pdf,113,10.429,3.589,0.055,0.836
+alicesadventurescarroll.pdf,114,16.455,3.68,0.066,0.464
+alicesadventurescarroll.pdf,115,13.077,3.894,0.082,0.571
+alicesadventurescarroll.pdf,116,10.188,4.018,0.129,0.601
+alicesadventurescarroll.pdf,117,9.412,3.775,0.1,0.581
+alicesadventurescarroll.pdf,118,14.0,3.818,0.091,0.604
+alicesadventurescarroll.pdf,119,10.6,3.943,0.17,0.736
+alicesadventurescarroll.pdf,120,10.625,3.876,0.1,0.612
+alicesadventurescarroll.pdf,121,9.556,4.0,0.105,0.651
+alicesadventurescarroll.pdf,122,15.636,3.965,0.116,0.599
+alicesadventurescarroll.pdf,123,8.526,3.975,0.142,0.654
+alicesadventurescarroll.pdf,124,19.0,4.053,0.105,0.579
+alicesadventurescarroll.pdf,125,19.0,3.942,0.111,0.602
+alicesadventurescarroll.pdf,126,16.5,3.768,0.061,0.737
+alicesadventurescarroll.pdf,127,14.111,3.921,0.102,0.63
+alicesadventurescarroll.pdf,128,13.286,3.882,0.086,0.806
+alicesadventurescarroll.pdf,129,9.231,4.025,0.108,0.717
+alicesadventurescarroll.pdf,130,20.0,4.011,0.078,0.639
+alicesadventurescarroll.pdf,131,37.0,4.259,0.151,0.659
+alicesadventurescarroll.pdf,132,16.273,4.045,0.117,0.598
+alicesadventurescarroll.pdf,134,10.0,4.062,0.094,0.675
+alicesadventurescarroll.pdf,135,7.8,4.404,0.179,0.635
+alicesadventurescarroll.pdf,136,9.05,3.95,0.122,0.591
+alicesadventurescarroll.pdf,137,45.333,4.404,0.162,0.691
+alicesadventurescarroll.pdf,138,27.571,4.083,0.14,0.585
+alicesadventurescarroll.pdf,139,21.556,3.83,0.124,0.588
+alicesadventurescarroll.pdf,140,21.222,3.623,0.073,0.576
+alicesadventurescarroll.pdf,141,12.571,3.875,0.131,0.631
+alicesadventurescarroll.pdf,142,28.857,4.015,0.104,0.609
+alicesadventurescarroll.pdf,144,21.222,3.785,0.094,0.586
+alicesadventurescarroll.pdf,146,15.667,3.84,0.128,0.702
+alicesadventurescarroll.pdf,147,15.333,3.891,0.103,0.668
+alicesadventurescarroll.pdf,148,19.0,3.86,0.123,0.614
+alicesadventurescarroll.pdf,149,11.2,4.185,0.173,0.655
+alicesadventurescarroll.pdf,150,17.727,3.759,0.108,0.477
+alicesadventurescarroll.pdf,151,12.0,3.958,0.143,0.625
+alicesadventurescarroll.pdf,152,15.182,4.108,0.12,0.617
+alicesadventurescarroll.pdf,153,16.0,3.801,0.08,0.551
+alicesadventurescarroll.pdf,154,13.571,3.853,0.105,0.758
+alicesadventurescarroll.pdf,155,10.778,3.83,0.077,0.557
+alicesadventurescarroll.pdf,156,15.917,3.974,0.11,0.634
+alicesadventurescarroll.pdf,158,10.938,3.84,0.074,0.589
+alicesadventurescarroll.pdf,159,7.381,4.303,0.129,0.594
+alicesadventurescarroll.pdf,160,10.6,4.195,0.164,0.61
+alicesadventurescarroll.pdf,161,11.214,3.866,0.102,0.586
+alicesadventurescarroll.pdf,163,16.667,3.87,0.09,0.72
+alicesadventurescarroll.pdf,164,14.1,4.27,0.177,0.617
+alicesadventurescarroll.pdf,165,7.842,4.168,0.128,0.604
+alicesadventurescarroll.pdf,166,13.5,4.259,0.111,0.833
+alicesadventurescarroll.pdf,167,13.273,4.13,0.171,0.527
+alicesadventurescarroll.pdf,168,14.818,4.018,0.135,0.583
+alicesadventurescarroll.pdf,169,9.882,3.732,0.054,0.5
+alicesadventurescarroll.pdf,170,10.333,4.052,0.129,0.606
+alicesadventurescarroll.pdf,171,10.786,4.099,0.159,0.616
+alicesadventurescarroll.pdf,172,18.667,4.149,0.143,0.619
+alicesadventurescarroll.pdf,173,16.167,4.093,0.144,0.763
+alicesadventurescarroll.pdf,174,13.167,4.038,0.12,0.639
+alicesadventurescarroll.pdf,175,15.364,3.917,0.101,0.651
+alicesadventurescarroll.pdf,176,7.333,4.527,0.236,0.591
+alicesadventurescarroll.pdf,177,9.0,4.21,0.198,0.691
+alicesadventurescarroll.pdf,178,32.0,3.927,0.073,0.667
+alicesadventurescarroll.pdf,179,23.5,3.915,0.101,0.564
+alicesadventurescarroll.pdf,180,14.083,4.26,0.13,0.651
+alicesadventurescarroll.pdf,181,17.1,3.854,0.064,0.62
+alicesadventurescarroll.pdf,183,11.067,4.042,0.102,0.59
+alicesadventurescarroll.pdf,184,14.182,3.936,0.135,0.647
+alicesadventurescarroll.pdf,185,18.2,3.89,0.132,0.604
+alicesadventurescarroll.pdf,186,13.333,3.775,0.125,0.642
+alicesadventurescarroll.pdf,187,10.2,3.961,0.105,0.549
+alicesadventurescarroll.pdf,188,12.333,3.886,0.119,0.589
+alicesadventurescarroll.pdf,189,12.5,3.98,0.13,0.67
+alicesadventurescarroll.pdf,190,10.933,4.201,0.134,0.628
+alicesadventurescarroll.pdf,191,11.0,4.101,0.131,0.768
+alicesadventurescarroll.pdf,192,15.5,3.978,0.097,0.72
+alicesadventurescarroll.pdf,194,32.5,3.923,0.087,0.585
+alicesadventurescarroll.pdf,195,11.385,4.473,0.176,0.635
+alicesadventurescarroll.pdf,196,10.533,3.905,0.101,0.62
+alicesadventurescarroll.pdf,197,10.6,3.755,0.119,0.541
+alicesadventurescarroll.pdf,198,9.235,3.917,0.076,0.637
+alicesadventurescarroll.pdf,199,15.833,4.263,0.126,0.789
+alicesadventurescarroll.pdf,200,22.167,3.925,0.158,0.662
+alicesadventurescarroll.pdf,201,15.727,3.595,0.087,0.578
+alicesadventurescarroll.pdf,202,8.444,4.224,0.132,0.803
+alicesadventurescarroll.pdf,203,6.292,4.02,0.113,0.669
+alicesadventurescarroll.pdf,205,22.286,3.859,0.096,0.609
+alicesadventurescarroll.pdf,206,50.0,4.367,0.147,0.673
+alicesadventurescarroll.pdf,207,97.0,4.247,0.124,0.582
+alicesadventurescarroll.pdf,208,40.333,4.256,0.107,0.62
+alicesadventurescarroll.pdf,209,3.841,4.84,0.254,0.565
+alicesadventurescarroll.pdf,210,3.504,4.874,0.295,0.573
+alicesadventurescarroll.pdf,211,4.656,4.725,0.233,0.591
+alicesadventurescarroll.pdf,212,3.275,5.265,0.299,0.691
+kidnapped.pdf,2,39.5,4.747,0.278,0.709
+kidnapped.pdf,3,21.0,4.39,0.212,0.649
+kidnapped.pdf,4,30.429,4.54,0.225,0.634
+kidnapped.pdf,5,31.8,4.242,0.173,0.579
+kidnapped.pdf,6,48.667,4.483,0.205,0.558
+kidnapped.pdf,7,15.889,4.259,0.178,0.636
+kidnapped.pdf,8,33.2,4.0,0.148,0.614
+kidnapped.pdf,10,26.429,3.611,0.092,0.568
+kidnapped.pdf,11,13.87,3.74,0.069,0.527
+kidnapped.pdf,12,27.364,4.053,0.159,0.532
+kidnapped.pdf,13,16.944,4.007,0.141,0.554
+kidnapped.pdf,14,31.091,3.819,0.102,0.55
+kidnapped.pdf,15,27.583,3.798,0.091,0.556
+kidnapped.pdf,17,36.5,3.845,0.128,0.621
+kidnapped.pdf,18,11.52,3.628,0.08,0.535
+kidnapped.pdf,19,25.538,3.717,0.093,0.53
+kidnapped.pdf,20,18.056,3.914,0.098,0.578
+kidnapped.pdf,21,24.462,3.862,0.101,0.553
+kidnapped.pdf,22,19.812,3.858,0.095,0.562
+kidnapped.pdf,23,10.273,3.73,0.115,0.549
+kidnapped.pdf,24,26.429,4.162,0.151,0.67
+kidnapped.pdf,25,12.542,3.764,0.093,0.585
+kidnapped.pdf,26,14.95,3.645,0.08,0.548
+kidnapped.pdf,27,13.136,3.945,0.128,0.588
+kidnapped.pdf,28,13.739,3.595,0.076,0.563
+kidnapped.pdf,29,26.583,3.859,0.113,0.571
+kidnapped.pdf,30,24.846,3.669,0.099,0.551
+kidnapped.pdf,31,14.909,3.506,0.073,0.515
+kidnapped.pdf,32,18.353,3.542,0.067,0.49
+kidnapped.pdf,33,14.7,3.354,0.041,0.626
+kidnapped.pdf,34,32.286,3.832,0.133,0.611
+kidnapped.pdf,35,16.3,3.828,0.086,0.54
+kidnapped.pdf,36,30.2,4.007,0.126,0.606
+kidnapped.pdf,37,25.5,3.922,0.114,0.562
+kidnapped.pdf,38,16.556,3.681,0.101,0.544
+kidnapped.pdf,39,15.476,3.772,0.083,0.538
+kidnapped.pdf,40,26.833,3.95,0.115,0.543
+kidnapped.pdf,41,28.727,3.94,0.127,0.566
+kidnapped.pdf,42,23.615,4.023,0.127,0.573
+kidnapped.pdf,43,14.952,3.529,0.057,0.481
+kidnapped.pdf,44,30.0,3.9,0.133,0.85
+kidnapped.pdf,45,26.875,3.8,0.102,0.609
+kidnapped.pdf,46,25.615,3.751,0.108,0.541
+kidnapped.pdf,47,13.571,3.828,0.119,0.582
+kidnapped.pdf,48,15.444,3.687,0.09,0.594
+kidnapped.pdf,49,24.615,3.853,0.087,0.603
+kidnapped.pdf,50,18.056,3.822,0.108,0.551
+kidnapped.pdf,51,16.333,3.417,0.055,0.51
+kidnapped.pdf,52,40.625,4.037,0.117,0.56
+kidnapped.pdf,53,7.643,3.607,0.093,0.748
+kidnapped.pdf,54,18.636,3.551,0.088,0.673
+kidnapped.pdf,55,25.917,3.936,0.116,0.592
+kidnapped.pdf,56,21.75,3.555,0.078,0.497
+kidnapped.pdf,57,7.875,3.69,0.075,0.528
+kidnapped.pdf,58,26.417,3.817,0.117,0.599
+kidnapped.pdf,59,15.238,3.75,0.106,0.55
+kidnapped.pdf,60,15.429,4.069,0.144,0.616
+kidnapped.pdf,61,35.333,4.057,0.151,0.59
+kidnapped.pdf,62,23.0,3.932,0.127,0.587
+kidnapped.pdf,63,17.647,3.837,0.1,0.577
+kidnapped.pdf,64,12.739,3.741,0.102,0.512
+kidnapped.pdf,65,16.579,3.892,0.111,0.584
+kidnapped.pdf,66,22.643,3.864,0.085,0.555
+kidnapped.pdf,67,25.231,3.93,0.079,0.591
+kidnapped.pdf,68,28.455,4.064,0.144,0.565
+kidnapped.pdf,69,23.429,3.805,0.113,0.552
+kidnapped.pdf,70,9.5,3.421,0.092,0.737
+kidnapped.pdf,71,20.727,3.746,0.096,0.632
+kidnapped.pdf,72,26.333,4.028,0.127,0.582
+kidnapped.pdf,73,19.167,3.817,0.096,0.53
+kidnapped.pdf,74,10.552,3.752,0.075,0.572
+kidnapped.pdf,75,23.929,3.764,0.084,0.555
+kidnapped.pdf,76,18.0,3.633,0.086,0.509
+kidnapped.pdf,77,19.125,3.83,0.111,0.66
+kidnapped.pdf,78,26.375,4.009,0.123,0.645
+kidnapped.pdf,79,17.833,3.891,0.118,0.545
+kidnapped.pdf,80,14.842,3.894,0.11,0.539
+kidnapped.pdf,81,16.2,3.58,0.065,0.546
+kidnapped.pdf,82,18.611,3.707,0.087,0.51
+kidnapped.pdf,83,14.25,3.856,0.105,0.614
+kidnapped.pdf,84,16.0,3.579,0.076,0.539
+kidnapped.pdf,85,15.85,3.634,0.079,0.558
+kidnapped.pdf,86,14.227,3.55,0.083,0.521
+kidnapped.pdf,87,20.133,3.768,0.093,0.55
+kidnapped.pdf,88,15.789,3.647,0.087,0.547
+kidnapped.pdf,89,10.667,3.542,0.068,0.589
+kidnapped.pdf,90,10.278,3.778,0.081,0.659
+kidnapped.pdf,91,23.643,3.68,0.063,0.562
+kidnapped.pdf,92,19.688,3.749,0.067,0.543
+kidnapped.pdf,93,12.208,3.713,0.085,0.573
+kidnapped.pdf,94,33.4,3.76,0.093,0.521
+kidnapped.pdf,95,19.125,3.954,0.108,0.542
+kidnapped.pdf,96,17.944,3.681,0.071,0.523
+kidnapped.pdf,97,22.733,3.701,0.076,0.545
+kidnapped.pdf,98,36.833,3.76,0.077,0.579
+kidnapped.pdf,99,19.9,3.99,0.106,0.673
+kidnapped.pdf,100,27.583,3.731,0.091,0.529
+kidnapped.pdf,101,11.96,3.722,0.084,0.555
+kidnapped.pdf,102,13.043,3.73,0.097,0.553
+kidnapped.pdf,103,10.615,3.663,0.098,0.536
+kidnapped.pdf,104,19.923,3.498,0.05,0.583
+kidnapped.pdf,105,22.273,3.829,0.086,0.576
+kidnapped.pdf,106,21.786,3.774,0.098,0.564
+kidnapped.pdf,107,26.0,3.808,0.104,0.518
+kidnapped.pdf,108,17.167,3.693,0.071,0.524
+kidnapped.pdf,109,17.316,3.687,0.076,0.526
+kidnapped.pdf,110,10.25,3.613,0.091,0.491
+kidnapped.pdf,111,16.75,3.782,0.084,0.531
+kidnapped.pdf,112,14.909,3.72,0.107,0.546
+kidnapped.pdf,113,13.87,3.737,0.094,0.536
+kidnapped.pdf,114,16.048,3.724,0.107,0.534
+kidnapped.pdf,115,22.846,3.808,0.084,0.579
+kidnapped.pdf,116,20.636,3.736,0.079,0.599
+kidnapped.pdf,117,10.536,3.732,0.105,0.563
+kidnapped.pdf,118,15.273,3.571,0.071,0.524
+kidnapped.pdf,119,13.381,3.943,0.096,0.609
+kidnapped.pdf,120,22.929,3.944,0.103,0.548
+kidnapped.pdf,121,23.214,3.665,0.074,0.535
+kidnapped.pdf,122,27.25,3.728,0.101,0.566
+kidnapped.pdf,123,23.0,3.707,0.054,0.685
+kidnapped.pdf,124,24.0,3.742,0.096,0.596
+kidnapped.pdf,125,25.0,3.763,0.091,0.546
+kidnapped.pdf,126,20.125,3.795,0.087,0.519
+kidnapped.pdf,127,25.308,3.933,0.103,0.535
+kidnapped.pdf,128,31.273,3.727,0.076,0.509
+kidnapped.pdf,129,26.583,3.799,0.075,0.577
+kidnapped.pdf,130,30.0,3.912,0.112,0.558
+kidnapped.pdf,131,20.75,3.792,0.078,0.539
+kidnapped.pdf,132,28.818,3.858,0.107,0.546
+kidnapped.pdf,133,19.812,3.748,0.091,0.546
+kidnapped.pdf,134,19.812,3.694,0.073,0.577
+kidnapped.pdf,135,20.0,3.82,0.07,0.73
+kidnapped.pdf,136,37.4,3.684,0.064,0.636
+kidnapped.pdf,137,20.533,3.799,0.107,0.516
+kidnapped.pdf,138,33.667,4.089,0.142,0.624
+kidnapped.pdf,139,28.182,4.019,0.142,0.584
+kidnapped.pdf,140,35.889,4.037,0.133,0.542
+kidnapped.pdf,141,19.143,3.854,0.101,0.575
+kidnapped.pdf,142,18.938,3.756,0.099,0.528
+kidnapped.pdf,143,16.2,3.62,0.09,0.522
+kidnapped.pdf,144,28.917,3.712,0.095,0.524
+kidnapped.pdf,145,27.25,3.728,0.11,0.56
+kidnapped.pdf,146,35.75,3.839,0.112,0.699
+kidnapped.pdf,147,21.9,3.995,0.1,0.566
+kidnapped.pdf,148,38.5,4.123,0.11,0.597
+kidnapped.pdf,149,19.235,3.633,0.076,0.486
+kidnapped.pdf,150,36.556,3.891,0.1,0.547
+kidnapped.pdf,151,27.273,4.167,0.153,0.59
+kidnapped.pdf,152,14.65,3.983,0.154,0.577
+kidnapped.pdf,153,10.633,3.636,0.097,0.542
+kidnapped.pdf,154,15.65,3.853,0.112,0.565
+kidnapped.pdf,155,22.786,3.925,0.113,0.558
+kidnapped.pdf,156,29.5,3.78,0.073,0.667
+kidnapped.pdf,157,20.273,3.794,0.067,0.601
+kidnapped.pdf,158,32.9,3.796,0.119,0.553
+kidnapped.pdf,159,25.308,3.97,0.122,0.55
+kidnapped.pdf,160,16.824,3.71,0.112,0.524
+kidnapped.pdf,161,16.474,3.642,0.08,0.53
+kidnapped.pdf,162,14.429,3.677,0.083,0.502
+kidnapped.pdf,163,20.133,3.98,0.123,0.583
+kidnapped.pdf,164,23.2,3.664,0.086,0.707
+kidnapped.pdf,165,19.364,3.742,0.066,0.596
+kidnapped.pdf,166,17.833,3.629,0.069,0.514
+kidnapped.pdf,167,12.038,3.565,0.07,0.54
+kidnapped.pdf,168,16.444,3.834,0.098,0.5
+kidnapped.pdf,169,13.727,3.801,0.123,0.54
+kidnapped.pdf,170,27.833,3.814,0.108,0.554
+kidnapped.pdf,171,16.158,3.707,0.085,0.577
+kidnapped.pdf,172,32.2,3.786,0.099,0.553
+kidnapped.pdf,173,29.0,3.953,0.072,0.558
+kidnapped.pdf,174,15.087,3.458,0.058,0.476
+kidnapped.pdf,175,15.2,3.75,0.066,0.737
+kidnapped.pdf,176,24.889,3.862,0.112,0.625
+kidnapped.pdf,177,17.444,3.739,0.083,0.557
+kidnapped.pdf,178,19.067,4.213,0.15,0.612
+kidnapped.pdf,179,22.769,4.03,0.139,0.618
+kidnapped.pdf,180,25.077,3.785,0.123,0.571
+kidnapped.pdf,181,13.083,3.561,0.07,0.436
+kidnapped.pdf,182,15.75,3.67,0.083,0.508
+kidnapped.pdf,183,23.857,3.653,0.087,0.521
+kidnapped.pdf,184,15.667,4.128,0.16,0.734
+kidnapped.pdf,185,27.25,3.922,0.106,0.61
+kidnapped.pdf,186,26.083,3.911,0.096,0.553
+kidnapped.pdf,187,27.833,3.829,0.081,0.53
+kidnapped.pdf,188,31.9,3.912,0.1,0.583
+kidnapped.pdf,189,15.789,3.677,0.087,0.513
+kidnapped.pdf,190,15.474,3.789,0.102,0.582
+kidnapped.pdf,191,20.875,3.757,0.075,0.53
+kidnapped.pdf,192,32.4,3.87,0.111,0.571
+kidnapped.pdf,193,22.308,3.903,0.103,0.566
+kidnapped.pdf,194,39.375,4.025,0.137,0.568
+kidnapped.pdf,195,39.25,3.965,0.089,0.58
+kidnapped.pdf,196,79.0,4.241,0.165,0.759
+kidnapped.pdf,197,32.0,4.0,0.115,0.583
+kidnapped.pdf,198,37.667,3.9,0.121,0.543
+kidnapped.pdf,199,15.684,3.691,0.081,0.564
+kidnapped.pdf,200,18.235,3.642,0.061,0.49
+kidnapped.pdf,201,23.643,3.577,0.069,0.492
+kidnapped.pdf,202,29.9,3.977,0.12,0.559
+kidnapped.pdf,203,20.286,3.951,0.099,0.606
+kidnapped.pdf,204,29.091,3.972,0.128,0.594
+kidnapped.pdf,205,19.875,3.745,0.091,0.516
+kidnapped.pdf,206,27.833,3.85,0.108,0.587
+kidnapped.pdf,207,18.0,3.681,0.069,0.634
+kidnapped.pdf,208,21.8,3.624,0.055,0.547
+kidnapped.pdf,209,30.364,3.895,0.096,0.587
+kidnapped.pdf,210,16.684,3.577,0.069,0.555
+kidnapped.pdf,211,26.667,4.016,0.122,0.578
+kidnapped.pdf,212,14.5,3.693,0.086,0.59
+kidnapped.pdf,213,31.364,3.742,0.067,0.539
+kidnapped.pdf,214,23.538,3.807,0.088,0.562
+kidnapped.pdf,215,16.632,3.804,0.085,0.563
+kidnapped.pdf,216,30.778,3.866,0.148,0.578
+kidnapped.pdf,217,19.545,4.112,0.126,0.605
+kidnapped.pdf,218,17.056,3.941,0.127,0.599
+kidnapped.pdf,219,25.077,3.883,0.123,0.577
+kidnapped.pdf,220,38.0,4.24,0.171,0.586
+kidnapped.pdf,221,28.545,3.841,0.102,0.586
+kidnapped.pdf,222,16.4,3.582,0.095,0.479
+kidnapped.pdf,223,29.364,3.92,0.111,0.545
+kidnapped.pdf,224,14.65,3.765,0.096,0.563
+kidnapped.pdf,225,12.292,3.647,0.075,0.559
+kidnapped.pdf,226,14.0,3.727,0.075,0.491
+kidnapped.pdf,227,14.688,3.689,0.098,0.604
+kidnapped.pdf,228,39.6,4.152,0.177,0.672
+kidnapped.pdf,229,28.455,3.84,0.105,0.543
+kidnapped.pdf,230,13.435,3.502,0.061,0.515
+kidnapped.pdf,231,19.941,3.678,0.086,0.504
+kidnapped.pdf,232,23.538,4.124,0.15,0.588
+kidnapped.pdf,233,32.2,3.997,0.134,0.606
+kidnapped.pdf,234,20.857,4.024,0.11,0.63
+kidnapped.pdf,235,19.0,3.728,0.091,0.57
+kidnapped.pdf,236,18.611,3.833,0.104,0.54
+kidnapped.pdf,237,11.652,3.675,0.101,0.541
+kidnapped.pdf,238,10.207,3.635,0.061,0.527
+kidnapped.pdf,239,10.833,3.538,0.086,0.545
+kidnapped.pdf,240,13.87,3.408,0.069,0.502
+kidnapped.pdf,241,31.286,4.379,0.169,0.63
+kidnapped.pdf,242,33.1,3.819,0.106,0.544
+kidnapped.pdf,243,22.786,4.016,0.113,0.571
+kidnapped.pdf,244,26.0,3.747,0.122,0.558
+kidnapped.pdf,245,19.062,3.843,0.118,0.567
+kidnapped.pdf,246,14.2,3.817,0.102,0.535
+kidnapped.pdf,247,14.25,4.042,0.091,0.607
+kidnapped.pdf,248,15.263,3.972,0.124,0.514
+kidnapped.pdf,249,17.625,3.72,0.067,0.574
+kidnapped.pdf,250,27.625,3.805,0.118,0.638
+kidnapped.pdf,251,27.417,3.891,0.082,0.556
+kidnapped.pdf,252,27.182,3.943,0.097,0.569
+kidnapped.pdf,253,11.696,3.829,0.067,0.58
+kidnapped.pdf,254,16.789,3.354,0.053,0.47
+kidnapped.pdf,255,20.5,3.814,0.085,0.549
+kidnapped.pdf,256,13.783,3.539,0.066,0.514
+kidnapped.pdf,257,13.522,3.92,0.084,0.559
+kidnapped.pdf,258,17.056,3.808,0.127,0.554
+kidnapped.pdf,259,18.176,3.667,0.068,0.56
+kidnapped.pdf,260,18.941,3.556,0.062,0.54
+kidnapped.pdf,261,16.778,3.685,0.083,0.606
+kidnapped.pdf,262,40.5,3.951,0.123,0.562
+kidnapped.pdf,263,24.25,3.969,0.124,0.593
+kidnapped.pdf,264,37.0,3.878,0.108,0.59
+kidnapped.pdf,265,28.583,3.755,0.117,0.516
+kidnapped.pdf,266,16.882,3.829,0.098,0.561
+kidnapped.pdf,267,12.13,3.86,0.097,0.577
+kidnapped.pdf,268,8.857,3.919,0.133,0.528
+kidnapped.pdf,269,14.524,3.839,0.118,0.551
+kidnapped.pdf,270,16.833,4.409,0.208,0.601
+kidnapped.pdf,271,19.25,4.023,0.11,0.584
+kidnapped.pdf,272,17.368,3.848,0.106,0.548
+kidnapped.pdf,273,18.471,4.172,0.159,0.618
+kidnapped.pdf,275,15.0,3.892,0.097,0.621
+kidnapped.pdf,276,19.059,3.877,0.117,0.574
+kidnapped.pdf,277,17.5,4.041,0.124,0.559
+kidnapped.pdf,278,19.118,4.04,0.142,0.557
+kidnapped.pdf,279,9.065,3.826,0.1,0.562
+kidnapped.pdf,280,22.067,3.852,0.115,0.583
+kidnapped.pdf,281,21.143,4.101,0.142,0.584
+kidnapped.pdf,282,33.2,3.852,0.127,0.56
+kidnapped.pdf,283,14.095,3.868,0.122,0.53
+kidnapped.pdf,284,27.0,4.089,0.133,0.659
+kidnapped.pdf,285,10.611,4.079,0.126,0.644
+kidnapped.pdf,286,17.938,3.812,0.101,0.53
+kidnapped.pdf,287,18.611,3.669,0.087,0.528
+kidnapped.pdf,288,15.238,3.487,0.075,0.506
+kidnapped.pdf,289,10.414,3.619,0.079,0.543
+kidnapped.pdf,290,7.514,3.81,0.125,0.51
+kidnapped.pdf,291,12.625,3.795,0.109,0.587
+kidnapped.pdf,292,17.765,3.752,0.116,0.576
+kidnapped.pdf,293,37.333,3.893,0.08,0.585
+kidnapped.pdf,294,14.812,3.768,0.118,0.612
+kidnapped.pdf,295,15.3,3.703,0.095,0.533
+kidnapped.pdf,296,18.167,3.865,0.128,0.529
+kidnapped.pdf,297,30.545,3.869,0.089,0.539
+kidnapped.pdf,298,41.667,3.924,0.14,0.6
+sons-and-lovers.pdf,3,19.8,4.379,0.131,0.626
+sons-and-lovers.pdf,4,23.25,4.491,0.179,0.57
+sons-and-lovers.pdf,5,18.938,4.386,0.158,0.538
+sons-and-lovers.pdf,6,10.214,3.804,0.101,0.57
+sons-and-lovers.pdf,7,14.045,4.055,0.107,0.618
+sons-and-lovers.pdf,8,10.222,3.703,0.058,0.587
+sons-and-lovers.pdf,9,10.962,4.06,0.133,0.604
+sons-and-lovers.pdf,10,11.96,4.298,0.14,0.572
+sons-and-lovers.pdf,11,10.778,3.986,0.141,0.625
+sons-and-lovers.pdf,12,11.393,3.527,0.088,0.542
+sons-and-lovers.pdf,13,15.632,4.387,0.158,0.556
+sons-and-lovers.pdf,14,9.414,3.784,0.095,0.546
+sons-and-lovers.pdf,15,11.92,4.228,0.141,0.597
+sons-and-lovers.pdf,16,14.5,4.486,0.207,0.576
+sons-and-lovers.pdf,17,11.0,4.034,0.136,0.595
+sons-and-lovers.pdf,18,8.484,3.791,0.103,0.589
+sons-and-lovers.pdf,19,12.13,3.971,0.122,0.616
+sons-and-lovers.pdf,20,9.069,3.764,0.076,0.586
+sons-and-lovers.pdf,21,9.519,4.031,0.101,0.556
+sons-and-lovers.pdf,22,8.613,3.873,0.105,0.596
+sons-and-lovers.pdf,23,11.286,4.041,0.114,0.509
+sons-and-lovers.pdf,24,13.571,4.218,0.147,0.579
+sons-and-lovers.pdf,25,11.577,4.053,0.14,0.588
+sons-and-lovers.pdf,26,14.476,4.217,0.158,0.553
+sons-and-lovers.pdf,27,12.077,3.806,0.089,0.589
+sons-and-lovers.pdf,28,16.778,4.066,0.103,0.616
+sons-and-lovers.pdf,29,16.105,4.242,0.163,0.572
+sons-and-lovers.pdf,30,10.357,3.903,0.103,0.614
+sons-and-lovers.pdf,31,7.788,4.074,0.128,0.607
+sons-and-lovers.pdf,32,12.792,4.173,0.127,0.609
+sons-and-lovers.pdf,33,11.833,4.377,0.148,0.651
+sons-and-lovers.pdf,34,10.536,4.244,0.159,0.593
+sons-and-lovers.pdf,35,8.931,3.799,0.104,0.587
+sons-and-lovers.pdf,36,10.103,3.771,0.109,0.543
+sons-and-lovers.pdf,37,17.5,4.283,0.143,0.533
+sons-and-lovers.pdf,38,11.846,4.269,0.123,0.542
+sons-and-lovers.pdf,39,12.833,4.159,0.114,0.597
+sons-and-lovers.pdf,40,10.517,4.161,0.121,0.59
+sons-and-lovers.pdf,41,17.556,3.956,0.089,0.741
+sons-and-lovers.pdf,42,19.8,4.121,0.141,0.667
+sons-and-lovers.pdf,43,18.158,3.878,0.081,0.533
+sons-and-lovers.pdf,44,16.15,3.644,0.084,0.539
+sons-and-lovers.pdf,45,8.667,3.931,0.1,0.65
+sons-and-lovers.pdf,46,8.645,3.925,0.112,0.556
+sons-and-lovers.pdf,47,8.143,3.796,0.067,0.565
+sons-and-lovers.pdf,48,8.156,3.981,0.069,0.617
+sons-and-lovers.pdf,49,11.538,4.037,0.117,0.58
+sons-and-lovers.pdf,50,8.719,3.846,0.093,0.545
+sons-and-lovers.pdf,51,9.862,3.762,0.084,0.552
+sons-and-lovers.pdf,52,13.435,4.084,0.104,0.592
+sons-and-lovers.pdf,53,7.229,3.98,0.126,0.613
+sons-and-lovers.pdf,54,10.346,3.639,0.078,0.55
+sons-and-lovers.pdf,55,13.7,4.128,0.128,0.602
+sons-and-lovers.pdf,56,16.053,4.321,0.151,0.607
+sons-and-lovers.pdf,57,11.44,4.056,0.126,0.528
+sons-and-lovers.pdf,58,11.84,3.834,0.074,0.52
+sons-and-lovers.pdf,59,12.565,3.934,0.114,0.585
+sons-and-lovers.pdf,60,10.0,3.938,0.115,0.592
+sons-and-lovers.pdf,61,11.32,4.078,0.141,0.569
+sons-and-lovers.pdf,62,11.696,4.134,0.141,0.602
+sons-and-lovers.pdf,63,11.577,4.163,0.163,0.611
+sons-and-lovers.pdf,64,11.885,4.039,0.142,0.55
+sons-and-lovers.pdf,65,11.346,4.261,0.166,0.617
+sons-and-lovers.pdf,66,11.037,4.107,0.128,0.574
+sons-and-lovers.pdf,67,9.586,3.748,0.097,0.54
+sons-and-lovers.pdf,68,8.667,3.741,0.098,0.524
+sons-and-lovers.pdf,69,12.739,3.962,0.126,0.567
+sons-and-lovers.pdf,71,10.75,4.151,0.174,0.721
+sons-and-lovers.pdf,72,12.625,4.277,0.152,0.561
+sons-and-lovers.pdf,73,11.875,4.042,0.123,0.537
+sons-and-lovers.pdf,74,15.8,4.079,0.123,0.57
+sons-and-lovers.pdf,75,12.0,4.04,0.094,0.598
+sons-and-lovers.pdf,76,10.885,4.117,0.124,0.58
+sons-and-lovers.pdf,77,10.111,3.509,0.077,0.538
+sons-and-lovers.pdf,78,10.75,3.791,0.132,0.581
+sons-and-lovers.pdf,79,8.267,3.944,0.133,0.56
+sons-and-lovers.pdf,80,6.048,3.835,0.102,0.531
+sons-and-lovers.pdf,81,14.182,4.138,0.128,0.583
+sons-and-lovers.pdf,82,9.333,3.604,0.079,0.543
+sons-and-lovers.pdf,83,8.097,4.386,0.187,0.633
+sons-and-lovers.pdf,84,9.846,3.883,0.109,0.547
+sons-and-lovers.pdf,85,8.083,3.952,0.117,0.56
+sons-and-lovers.pdf,86,11.143,3.837,0.103,0.542
+sons-and-lovers.pdf,87,11.069,3.773,0.093,0.508
+sons-and-lovers.pdf,88,8.129,4.052,0.139,0.619
+sons-and-lovers.pdf,89,14.286,3.97,0.12,0.81
+sons-and-lovers.pdf,90,11.895,4.071,0.097,0.584
+sons-and-lovers.pdf,91,11.423,4.111,0.135,0.586
+sons-and-lovers.pdf,92,10.481,4.035,0.106,0.608
+sons-and-lovers.pdf,93,8.152,3.688,0.089,0.52
+sons-and-lovers.pdf,94,12.84,4.084,0.103,0.53
+sons-and-lovers.pdf,95,12.375,4.067,0.104,0.572
+sons-and-lovers.pdf,96,8.966,4.246,0.146,0.623
+sons-and-lovers.pdf,97,10.423,3.863,0.103,0.579
+sons-and-lovers.pdf,98,13.85,3.971,0.105,0.625
+sons-and-lovers.pdf,99,8.414,3.988,0.098,0.553
+sons-and-lovers.pdf,100,19.438,4.023,0.103,0.55
+sons-and-lovers.pdf,101,10.2,3.651,0.051,0.62
+sons-and-lovers.pdf,102,13.2,3.932,0.102,0.617
+sons-and-lovers.pdf,103,9.964,3.903,0.111,0.581
+sons-and-lovers.pdf,104,15.7,4.064,0.105,0.573
+sons-and-lovers.pdf,105,8.233,3.947,0.101,0.587
+sons-and-lovers.pdf,106,19.357,4.494,0.159,0.646
+sons-and-lovers.pdf,107,9.76,4.324,0.131,0.643
+sons-and-lovers.pdf,108,15.263,4.276,0.148,0.583
+sons-and-lovers.pdf,109,9.774,4.383,0.145,0.587
+sons-and-lovers.pdf,110,6.118,4.433,0.188,0.596
+sons-and-lovers.pdf,111,6.974,4.181,0.132,0.581
+sons-and-lovers.pdf,112,9.241,4.119,0.146,0.582
+sons-and-lovers.pdf,113,8.182,3.807,0.093,0.559
+sons-and-lovers.pdf,114,10.833,4.088,0.112,0.631
+sons-and-lovers.pdf,115,12.273,3.974,0.107,0.559
+sons-and-lovers.pdf,116,7.486,3.92,0.118,0.58
+sons-and-lovers.pdf,117,7.548,3.577,0.081,0.538
+sons-and-lovers.pdf,118,7.294,3.823,0.101,0.597
+sons-and-lovers.pdf,119,14.476,4.204,0.105,0.579
+sons-and-lovers.pdf,120,16.353,4.255,0.126,0.651
+sons-and-lovers.pdf,121,8.529,4.114,0.097,0.631
+sons-and-lovers.pdf,122,8.966,3.673,0.058,0.554
+sons-and-lovers.pdf,123,11.231,4.096,0.12,0.589
+sons-and-lovers.pdf,124,8.25,4.106,0.121,0.617
+sons-and-lovers.pdf,125,9.964,3.978,0.104,0.545
+sons-and-lovers.pdf,126,7.941,4.011,0.126,0.622
+sons-and-lovers.pdf,127,6.306,4.009,0.115,0.639
+sons-and-lovers.pdf,128,14.095,4.27,0.149,0.574
+sons-and-lovers.pdf,130,10.05,3.811,0.09,0.657
+sons-and-lovers.pdf,131,9.219,3.468,0.085,0.559
+sons-and-lovers.pdf,132,9.273,3.663,0.072,0.569
+sons-and-lovers.pdf,133,12.667,3.793,0.102,0.592
+sons-and-lovers.pdf,134,10.7,3.564,0.093,0.514
+sons-and-lovers.pdf,135,12.208,4.014,0.099,0.567
+sons-and-lovers.pdf,136,9.676,3.52,0.082,0.502
+sons-and-lovers.pdf,137,13.591,4.207,0.137,0.562
+sons-and-lovers.pdf,138,17.706,4.143,0.126,0.578
+sons-and-lovers.pdf,139,11.148,3.914,0.123,0.561
+sons-and-lovers.pdf,140,13.0,4.164,0.157,0.582
+sons-and-lovers.pdf,141,13.85,4.3,0.166,0.603
+sons-and-lovers.pdf,142,16.5,3.867,0.1,0.555
+sons-and-lovers.pdf,143,11.625,4.57,0.229,0.688
+sons-and-lovers.pdf,144,10.96,4.292,0.164,0.613
+sons-and-lovers.pdf,145,9.133,4.252,0.131,0.599
+sons-and-lovers.pdf,146,9.219,4.071,0.119,0.576
+sons-and-lovers.pdf,147,9.5,4.237,0.173,0.613
+sons-and-lovers.pdf,148,8.036,4.084,0.111,0.618
+sons-and-lovers.pdf,149,10.174,3.889,0.098,0.598
+sons-and-lovers.pdf,150,10.379,3.877,0.09,0.605
+sons-and-lovers.pdf,151,6.784,4.096,0.092,0.59
+sons-and-lovers.pdf,152,8.118,3.946,0.12,0.598
+sons-and-lovers.pdf,153,7.086,3.919,0.121,0.657
+sons-and-lovers.pdf,154,10.48,3.653,0.095,0.565
+sons-and-lovers.pdf,155,9.964,3.839,0.115,0.563
+sons-and-lovers.pdf,156,9.533,3.885,0.115,0.633
+sons-and-lovers.pdf,157,12.375,4.121,0.128,0.599
+sons-and-lovers.pdf,158,10.846,4.209,0.121,0.596
+sons-and-lovers.pdf,159,11.037,4.084,0.097,0.591
+sons-and-lovers.pdf,160,8.654,4.204,0.16,0.64
+sons-and-lovers.pdf,161,6.686,4.017,0.132,0.598
+sons-and-lovers.pdf,162,11.478,4.068,0.106,0.572
+sons-and-lovers.pdf,163,9.448,3.916,0.095,0.606
+sons-and-lovers.pdf,164,7.0,4.091,0.147,0.635
+sons-and-lovers.pdf,165,9.3,4.086,0.118,0.62
+sons-and-lovers.pdf,166,11.231,3.962,0.11,0.575
+sons-and-lovers.pdf,167,9.5,4.091,0.13,0.575
+sons-and-lovers.pdf,168,13.348,4.14,0.13,0.599
+sons-and-lovers.pdf,169,8.677,3.926,0.119,0.576
+sons-and-lovers.pdf,170,12.875,3.828,0.061,0.563
+sons-and-lovers.pdf,171,12.913,3.98,0.111,0.572
+sons-and-lovers.pdf,172,10.44,3.931,0.126,0.571
+sons-and-lovers.pdf,173,8.533,3.938,0.105,0.582
+sons-and-lovers.pdf,174,16.105,4.219,0.111,0.598
+sons-and-lovers.pdf,175,8.917,4.028,0.093,0.71
+sons-and-lovers.pdf,176,14.333,4.005,0.126,0.577
+sons-and-lovers.pdf,177,14.19,4.272,0.164,0.554
+sons-and-lovers.pdf,178,11.269,4.092,0.14,0.553
+sons-and-lovers.pdf,179,6.457,4.062,0.124,0.633
+sons-and-lovers.pdf,180,7.781,3.916,0.137,0.59
+sons-and-lovers.pdf,181,7.531,4.046,0.141,0.61
+sons-and-lovers.pdf,182,10.346,4.186,0.13,0.591
+sons-and-lovers.pdf,183,7.625,3.75,0.098,0.549
+sons-and-lovers.pdf,184,7.226,3.951,0.116,0.616
+sons-and-lovers.pdf,185,9.893,4.094,0.119,0.585
+sons-and-lovers.pdf,186,7.906,3.557,0.103,0.53
+sons-and-lovers.pdf,187,9.852,3.733,0.094,0.56
+sons-and-lovers.pdf,188,8.517,4.016,0.134,0.66
+sons-and-lovers.pdf,189,8.679,3.955,0.136,0.609
+sons-and-lovers.pdf,190,9.321,3.893,0.103,0.602
+sons-and-lovers.pdf,191,9.667,4.134,0.138,0.602
+sons-and-lovers.pdf,192,9.097,3.762,0.074,0.585
+sons-and-lovers.pdf,193,8.7,4.134,0.13,0.648
+sons-and-lovers.pdf,194,8.8,3.871,0.117,0.564
+sons-and-lovers.pdf,195,7.8,4.099,0.128,0.56
+sons-and-lovers.pdf,196,7.25,4.03,0.129,0.612
+sons-and-lovers.pdf,197,9.967,3.759,0.1,0.535
+sons-and-lovers.pdf,198,8.324,3.827,0.102,0.576
+sons-and-lovers.pdf,199,11.148,4.013,0.146,0.561
+sons-and-lovers.pdf,200,9.407,4.13,0.154,0.614
+sons-and-lovers.pdf,201,8.133,3.721,0.082,0.549
+sons-and-lovers.pdf,202,10.783,3.851,0.097,0.589
+sons-and-lovers.pdf,203,11.92,3.604,0.087,0.507
+sons-and-lovers.pdf,204,10.259,3.834,0.116,0.57
+sons-and-lovers.pdf,205,7.4,3.865,0.116,0.544
+sons-and-lovers.pdf,206,8.323,3.857,0.089,0.57
+sons-and-lovers.pdf,207,13.476,3.806,0.095,0.555
+sons-and-lovers.pdf,208,13.095,3.993,0.131,0.578
+sons-and-lovers.pdf,209,9.172,3.91,0.094,0.598
+sons-and-lovers.pdf,210,8.8,3.883,0.091,0.58
+sons-and-lovers.pdf,211,11.609,3.813,0.082,0.588
+sons-and-lovers.pdf,212,8.194,4.134,0.13,0.579
+sons-and-lovers.pdf,213,8.037,4.092,0.115,0.636
+sons-and-lovers.pdf,214,11.652,4.403,0.116,0.567
+sons-and-lovers.pdf,215,9.893,4.134,0.116,0.596
+sons-and-lovers.pdf,216,8.6,3.973,0.105,0.574
+sons-and-lovers.pdf,217,8.556,4.03,0.108,0.632
+sons-and-lovers.pdf,218,10.174,3.923,0.094,0.603
+sons-and-lovers.pdf,220,17.583,4.436,0.161,0.654
+sons-and-lovers.pdf,221,21.429,4.223,0.137,0.58
+sons-and-lovers.pdf,222,14.905,4.086,0.144,0.569
+sons-and-lovers.pdf,223,9.1,4.165,0.139,0.623
+sons-and-lovers.pdf,224,10.276,3.842,0.104,0.584
+sons-and-lovers.pdf,225,8.4,4.218,0.139,0.643
+sons-and-lovers.pdf,226,9.92,4.218,0.109,0.565
+sons-and-lovers.pdf,227,9.077,4.568,0.208,0.665
+sons-and-lovers.pdf,228,12.174,4.564,0.182,0.582
+sons-and-lovers.pdf,229,11.04,4.156,0.134,0.587
+sons-and-lovers.pdf,230,13.045,4.411,0.181,0.599
+sons-and-lovers.pdf,231,13.95,4.183,0.118,0.631
+sons-and-lovers.pdf,232,10.875,3.828,0.119,0.529
+sons-and-lovers.pdf,233,8.906,3.811,0.095,0.565
+sons-and-lovers.pdf,234,9.704,3.897,0.099,0.553
+sons-and-lovers.pdf,235,10.148,4.139,0.139,0.595
+sons-and-lovers.pdf,236,9.333,3.889,0.129,0.532
+sons-and-lovers.pdf,237,11.48,4.202,0.164,0.61
+sons-and-lovers.pdf,238,7.861,3.996,0.141,0.565
+sons-and-lovers.pdf,239,6.694,3.78,0.116,0.544
+sons-and-lovers.pdf,240,6.647,3.907,0.119,0.593
+sons-and-lovers.pdf,241,8.471,4.16,0.135,0.569
+sons-and-lovers.pdf,242,10.536,3.831,0.105,0.542
+sons-and-lovers.pdf,243,13.261,4.092,0.121,0.567
+sons-and-lovers.pdf,244,14.35,4.355,0.139,0.596
+sons-and-lovers.pdf,245,10.107,3.936,0.11,0.604
+sons-and-lovers.pdf,246,11.292,4.483,0.151,0.609
+sons-and-lovers.pdf,247,11.222,4.013,0.122,0.554
+sons-and-lovers.pdf,248,11.318,4.04,0.12,0.566
+sons-and-lovers.pdf,249,8.179,3.672,0.079,0.598
+sons-and-lovers.pdf,250,11.375,4.26,0.15,0.641
+sons-and-lovers.pdf,251,10.31,4.184,0.13,0.602
+sons-and-lovers.pdf,252,7.968,4.032,0.093,0.623
+sons-and-lovers.pdf,253,9.667,3.931,0.086,0.555
+sons-and-lovers.pdf,254,11.917,4.545,0.203,0.65
+sons-and-lovers.pdf,255,12.417,4.305,0.158,0.581
+sons-and-lovers.pdf,256,10.292,4.057,0.15,0.595
+sons-and-lovers.pdf,257,11.357,4.214,0.116,0.585
+sons-and-lovers.pdf,258,11.12,4.371,0.122,0.633
+sons-and-lovers.pdf,259,12.739,4.16,0.13,0.584
+sons-and-lovers.pdf,260,18.375,4.16,0.119,0.565
+sons-and-lovers.pdf,261,13.238,4.331,0.147,0.608
+sons-and-lovers.pdf,262,12.522,4.26,0.167,0.59
+sons-and-lovers.pdf,263,9.5,3.924,0.105,0.543
+sons-and-lovers.pdf,264,13.0,4.108,0.136,0.549
+sons-and-lovers.pdf,265,10.04,4.179,0.183,0.618
+sons-and-lovers.pdf,266,12.5,4.21,0.153,0.57
+sons-and-lovers.pdf,267,12.957,4.128,0.131,0.601
+sons-and-lovers.pdf,268,10.179,4.088,0.13,0.547
+sons-and-lovers.pdf,269,10.433,4.153,0.137,0.527
+sons-and-lovers.pdf,270,7.867,3.953,0.106,0.61
+sons-and-lovers.pdf,271,7.0,4.067,0.134,0.638
+sons-and-lovers.pdf,272,10.577,4.029,0.116,0.564
+sons-and-lovers.pdf,273,15.947,4.165,0.135,0.548
+sons-and-lovers.pdf,274,7.686,4.249,0.178,0.528
+sons-and-lovers.pdf,275,9.6,4.007,0.115,0.594
+sons-and-lovers.pdf,276,10.833,4.385,0.169,0.754
+sons-and-lovers.pdf,277,13.375,3.953,0.112,0.621
+sons-and-lovers.pdf,278,8.032,3.835,0.112,0.566
+sons-and-lovers.pdf,279,7.324,3.535,0.074,0.539
+sons-and-lovers.pdf,280,9.038,3.689,0.077,0.591
+sons-and-lovers.pdf,281,5.838,3.606,0.069,0.597
+sons-and-lovers.pdf,282,8.185,3.819,0.104,0.611
+sons-and-lovers.pdf,283,10.429,4.106,0.147,0.568
+sons-and-lovers.pdf,284,11.667,4.1,0.118,0.614
+sons-and-lovers.pdf,285,7.485,4.105,0.113,0.579
+sons-and-lovers.pdf,286,9.69,4.171,0.153,0.594
+sons-and-lovers.pdf,287,9.897,3.889,0.118,0.557
+sons-and-lovers.pdf,288,7.607,3.826,0.108,0.516
+sons-and-lovers.pdf,289,10.0,3.9,0.1,0.552
+sons-and-lovers.pdf,290,9.852,3.974,0.109,0.545
+sons-and-lovers.pdf,291,9.207,3.959,0.12,0.569
+sons-and-lovers.pdf,292,6.758,3.906,0.103,0.668
+sons-and-lovers.pdf,293,7.742,3.996,0.129,0.629
+sons-and-lovers.pdf,294,9.167,3.982,0.084,0.56
+sons-and-lovers.pdf,295,10.714,4.173,0.107,0.543
+sons-and-lovers.pdf,296,14.043,3.944,0.102,0.548
+sons-and-lovers.pdf,297,11.103,3.87,0.109,0.5
+sons-and-lovers.pdf,298,11.429,3.969,0.116,0.512
+sons-and-lovers.pdf,299,8.75,3.914,0.118,0.62
+sons-and-lovers.pdf,300,10.889,4.133,0.129,0.592
+sons-and-lovers.pdf,301,12.435,4.217,0.14,0.615
+sons-and-lovers.pdf,302,7.848,3.865,0.131,0.641
+sons-and-lovers.pdf,303,10.556,3.881,0.119,0.589
+sons-and-lovers.pdf,304,9.267,4.04,0.129,0.626
+sons-and-lovers.pdf,305,6.938,3.829,0.113,0.689
+sons-and-lovers.pdf,306,7.353,3.952,0.132,0.604
+sons-and-lovers.pdf,307,8.065,4.044,0.104,0.612
+sons-and-lovers.pdf,308,8.273,3.905,0.092,0.56
+sons-and-lovers.pdf,309,8.226,3.831,0.102,0.62
+sons-and-lovers.pdf,310,7.774,4.083,0.133,0.589
+sons-and-lovers.pdf,311,9.414,4.037,0.114,0.597
+sons-and-lovers.pdf,312,8.8,4.355,0.164,0.682
+sons-and-lovers.pdf,313,7.559,4.047,0.109,0.615
+sons-and-lovers.pdf,314,7.424,4.098,0.147,0.567
+sons-and-lovers.pdf,315,8.0,4.016,0.105,0.605
+sons-and-lovers.pdf,316,7.0,4.214,0.17,0.598
+sons-and-lovers.pdf,317,8.419,4.05,0.138,0.594
+sons-and-lovers.pdf,318,9.6,4.069,0.135,0.656
+sons-and-lovers.pdf,319,10.655,4.1,0.129,0.537
+sons-and-lovers.pdf,320,8.448,4.024,0.122,0.62
+sons-and-lovers.pdf,321,9.759,4.064,0.117,0.594
+sons-and-lovers.pdf,322,6.719,4.023,0.098,0.563
+sons-and-lovers.pdf,323,8.194,3.886,0.126,0.587
+sons-and-lovers.pdf,324,10.481,3.583,0.088,0.495
+sons-and-lovers.pdf,325,9.033,3.45,0.074,0.413
+sons-and-lovers.pdf,326,13.684,3.619,0.073,0.508
+sons-and-lovers.pdf,327,7.432,3.713,0.102,0.567
+sons-and-lovers.pdf,328,8.03,4.087,0.113,0.57
+sons-and-lovers.pdf,329,7.483,3.917,0.111,0.576
+sons-and-lovers.pdf,331,11.947,4.207,0.172,0.515
+sons-and-lovers.pdf,332,15.4,4.276,0.159,0.588
+sons-and-lovers.pdf,333,8.219,4.179,0.137,0.627
+sons-and-lovers.pdf,334,9.962,4.232,0.162,0.622
+sons-and-lovers.pdf,335,12.217,4.114,0.164,0.58
+sons-and-lovers.pdf,336,9.0,4.0,0.122,0.593
+sons-and-lovers.pdf,337,10.222,4.13,0.13,0.591
+sons-and-lovers.pdf,338,7.233,3.908,0.12,0.594
+sons-and-lovers.pdf,339,7.053,4.067,0.153,0.597
+sons-and-lovers.pdf,340,8.265,3.982,0.146,0.534
+sons-and-lovers.pdf,341,9.613,3.899,0.064,0.517
+sons-and-lovers.pdf,342,9.5,4.095,0.118,0.526
+sons-and-lovers.pdf,343,7.75,3.931,0.113,0.593
+sons-and-lovers.pdf,344,11.542,3.848,0.116,0.523
+sons-and-lovers.pdf,345,8.484,3.593,0.08,0.517
+sons-and-lovers.pdf,346,7.167,3.841,0.097,0.593
+sons-and-lovers.pdf,347,10.75,3.831,0.096,0.561
+sons-and-lovers.pdf,348,12.739,4.324,0.16,0.584
+sons-and-lovers.pdf,349,9.212,4.164,0.138,0.569
+sons-and-lovers.pdf,350,10.7,3.978,0.118,0.53
+sons-and-lovers.pdf,351,8.909,4.235,0.129,0.575
+sons-and-lovers.pdf,352,8.5,3.847,0.118,0.584
+sons-and-lovers.pdf,353,8.654,4.164,0.133,0.596
+sons-and-lovers.pdf,354,11.783,3.974,0.129,0.579
+sons-and-lovers.pdf,355,6.324,3.921,0.116,0.526
+sons-and-lovers.pdf,356,8.303,4.179,0.131,0.591
+sons-and-lovers.pdf,357,8.0,3.987,0.112,0.621
+sons-and-lovers.pdf,358,11.0,3.938,0.105,0.6
+sons-and-lovers.pdf,359,13.048,4.376,0.172,0.682
+sons-and-lovers.pdf,360,8.5,3.969,0.122,0.604
+sons-and-lovers.pdf,361,6.639,3.653,0.054,0.536
+sons-and-lovers.pdf,362,7.559,3.844,0.097,0.549
+sons-and-lovers.pdf,363,9.828,4.449,0.165,0.632
+sons-and-lovers.pdf,364,7.719,3.794,0.105,0.534
+sons-and-lovers.pdf,365,10.423,4.144,0.14,0.624
+sons-and-lovers.pdf,366,8.926,4.095,0.12,0.577
+sons-and-lovers.pdf,367,8.273,4.051,0.103,0.63
+sons-and-lovers.pdf,368,10.143,3.989,0.109,0.567
+sons-and-lovers.pdf,369,7.444,3.825,0.086,0.612
+sons-and-lovers.pdf,370,7.967,3.883,0.117,0.582
+sons-and-lovers.pdf,371,8.594,3.56,0.062,0.509
+sons-and-lovers.pdf,372,7.806,3.669,0.116,0.579
+sons-and-lovers.pdf,373,9.097,3.819,0.103,0.613
+sons-and-lovers.pdf,374,11.24,3.63,0.082,0.491
+sons-and-lovers.pdf,375,9.207,3.39,0.049,0.521
+sons-and-lovers.pdf,376,8.091,3.506,0.06,0.506
+sons-and-lovers.pdf,377,9.969,3.987,0.122,0.53
+sons-and-lovers.pdf,378,10.111,3.916,0.121,0.579
+sons-and-lovers.pdf,379,8.562,4.128,0.157,0.54
+sons-and-lovers.pdf,380,8.091,4.146,0.142,0.603
+sons-and-lovers.pdf,381,12.154,4.127,0.127,0.513
+sons-and-lovers.pdf,382,7.162,4.011,0.117,0.551
+sons-and-lovers.pdf,383,11.115,4.156,0.152,0.55
+sons-and-lovers.pdf,384,12.074,3.819,0.104,0.491
+sons-and-lovers.pdf,385,10.143,4.025,0.113,0.599
+sons-and-lovers.pdf,386,24.5,4.367,0.143,0.755
+sons-and-lovers.pdf,387,10.263,4.19,0.133,0.708
+sons-and-lovers.pdf,388,7.353,3.956,0.096,0.584
+sons-and-lovers.pdf,389,5.976,3.947,0.127,0.58
+sons-and-lovers.pdf,390,10.107,3.866,0.092,0.572
+sons-and-lovers.pdf,391,9.594,3.909,0.111,0.534
+sons-and-lovers.pdf,392,9.889,4.022,0.097,0.558
+sons-and-lovers.pdf,393,14.0,4.057,0.121,0.582
+sons-and-lovers.pdf,394,8.472,3.567,0.062,0.538
+sons-and-lovers.pdf,395,10.367,3.99,0.096,0.534
+sons-and-lovers.pdf,396,12.04,4.279,0.153,0.608
+sons-and-lovers.pdf,397,13.182,3.948,0.128,0.566
+sons-and-lovers.pdf,398,8.97,3.716,0.088,0.544
+sons-and-lovers.pdf,399,10.84,3.919,0.111,0.594
+sons-and-lovers.pdf,400,8.394,3.599,0.072,0.545
+sons-and-lovers.pdf,401,11.37,3.941,0.111,0.564
+sons-and-lovers.pdf,402,6.867,3.733,0.107,0.578
+sons-and-lovers.pdf,403,10.0,4.421,0.171,0.629
+sons-and-lovers.pdf,404,10.52,4.141,0.137,0.567
+sons-and-lovers.pdf,405,12.304,4.41,0.187,0.618
+sons-and-lovers.pdf,406,9.036,4.154,0.154,0.613
+sons-and-lovers.pdf,407,9.133,4.047,0.146,0.588
+sons-and-lovers.pdf,408,8.733,3.874,0.122,0.573
+sons-and-lovers.pdf,409,6.324,3.838,0.09,0.556
+sons-and-lovers.pdf,410,9.815,3.951,0.113,0.57
+sons-and-lovers.pdf,411,8.581,4.117,0.139,0.635
+sons-and-lovers.pdf,412,7.767,3.781,0.103,0.597
+sons-and-lovers.pdf,413,7.875,3.909,0.095,0.599
+sons-and-lovers.pdf,414,14.056,4.601,0.162,0.672
+sons-and-lovers.pdf,415,9.778,4.348,0.148,0.633
+sons-and-lovers.pdf,416,8.893,3.823,0.112,0.546
+sons-and-lovers.pdf,417,15.048,4.184,0.142,0.57
+sons-and-lovers.pdf,418,9.857,4.188,0.149,0.609
+sons-and-lovers.pdf,419,7.485,3.777,0.097,0.583
+sons-and-lovers.pdf,420,6.879,3.687,0.079,0.52
+sons-and-lovers.pdf,421,9.069,4.023,0.118,0.586
+sons-and-lovers.pdf,422,13.522,4.061,0.119,0.498
+sons-and-lovers.pdf,423,7.267,3.945,0.101,0.619
+sons-and-lovers.pdf,424,7.467,3.237,0.018,0.451
+sons-and-lovers.pdf,426,11.429,3.913,0.104,0.517
+sons-and-lovers.pdf,427,14.455,4.101,0.129,0.497
+sons-and-lovers.pdf,428,12.042,4.083,0.118,0.557
+sons-and-lovers.pdf,429,10.29,3.928,0.119,0.527
+sons-and-lovers.pdf,430,7.926,3.822,0.126,0.509
+sons-and-lovers.pdf,431,8.697,3.714,0.101,0.498
+sons-and-lovers.pdf,432,9.654,4.044,0.112,0.562
+sons-and-lovers.pdf,433,8.731,3.841,0.115,0.559
+sons-and-lovers.pdf,434,6.459,3.82,0.079,0.565
+sons-and-lovers.pdf,435,12.875,4.172,0.136,0.56
+sons-and-lovers.pdf,436,15.632,4.354,0.165,0.593
+sons-and-lovers.pdf,437,7.871,4.23,0.123,0.639
+sons-and-lovers.pdf,438,7.531,3.917,0.116,0.581
+sons-and-lovers.pdf,439,11.269,3.908,0.092,0.522
+sons-and-lovers.pdf,440,8.6,3.977,0.112,0.6
+sons-and-lovers.pdf,441,12.522,4.045,0.115,0.566
+sons-and-lovers.pdf,442,12.04,4.106,0.123,0.568
+sons-and-lovers.pdf,443,11.32,3.922,0.095,0.53
+sons-and-lovers.pdf,444,10.103,3.693,0.068,0.502
+sons-and-lovers.pdf,445,8.138,3.746,0.11,0.513
+sons-and-lovers.pdf,446,9.194,4.011,0.13,0.547
+sons-and-lovers.pdf,447,10.76,4.175,0.16,0.584
+sons-and-lovers.pdf,448,10.926,4.044,0.105,0.573
+sons-and-lovers.pdf,449,11.37,4.176,0.124,0.606
+sons-and-lovers.pdf,450,8.265,3.751,0.093,0.544
+sons-and-lovers.pdf,451,11.885,3.926,0.117,0.524
+sons-and-lovers.pdf,452,9.414,3.198,0.04,0.44
+sons-and-lovers.pdf,453,9.931,3.74,0.087,0.503
+sons-and-lovers.pdf,454,8.636,3.807,0.098,0.53
+sons-and-lovers.pdf,455,8.194,3.885,0.088,0.492
+sons-and-lovers.pdf,456,7.97,3.951,0.133,0.513
+sons-and-lovers.pdf,457,8.941,3.97,0.118,0.513
+sons-and-lovers.pdf,458,8.833,4.042,0.125,0.619
+sons-and-lovers.pdf,459,8.097,3.781,0.1,0.562
+sons-and-lovers.pdf,461,16.077,4.378,0.201,0.646
+sons-and-lovers.pdf,462,7.588,3.702,0.066,0.562
+sons-and-lovers.pdf,463,6.947,3.977,0.125,0.602
+sons-and-lovers.pdf,464,6.973,3.996,0.105,0.578
+sons-and-lovers.pdf,465,7.0,3.929,0.089,0.564
+sons-and-lovers.pdf,466,7.273,4.031,0.125,0.534
+sons-and-lovers.pdf,467,8.9,3.903,0.116,0.577
+sons-and-lovers.pdf,468,8.793,4.0,0.129,0.569
+sons-and-lovers.pdf,469,11.593,4.227,0.125,0.575
+sons-and-lovers.pdf,470,7.3,3.795,0.073,0.539
+sons-and-lovers.pdf,471,8.633,4.023,0.1,0.629
+sons-and-lovers.pdf,472,13.045,4.247,0.125,0.571
+sons-and-lovers.pdf,473,9.161,3.926,0.099,0.595
+sons-and-lovers.pdf,474,8.727,4.028,0.104,0.576
+sons-and-lovers.pdf,475,8.938,4.269,0.119,0.601
+sons-and-lovers.pdf,476,8.677,4.197,0.149,0.621
+sons-and-lovers.pdf,477,9.1,4.051,0.136,0.586
+sons-and-lovers.pdf,478,9.741,3.848,0.103,0.563
+sons-and-lovers.pdf,479,7.121,3.987,0.119,0.54
+sons-and-lovers.pdf,480,8.552,3.895,0.109,0.585
+sons-and-lovers.pdf,481,7.706,3.542,0.088,0.519
+sons-and-lovers.pdf,482,9.0,3.878,0.104,0.559
+sons-and-lovers.pdf,483,5.75,3.841,0.087,0.57
+sons-and-lovers.pdf,484,10.12,3.704,0.099,0.514
+sons-and-lovers.pdf,485,11.042,3.853,0.109,0.513
+sons-and-lovers.pdf,486,18.765,3.759,0.085,0.464
+sons-and-lovers.pdf,487,9.963,3.937,0.126,0.532
+sons-and-lovers.pdf,488,10.31,4.054,0.117,0.582
+sons-and-lovers.pdf,489,12.739,3.778,0.099,0.546
+sons-and-lovers.pdf,490,8.935,4.134,0.097,0.603
+sons-and-lovers.pdf,491,9.097,4.06,0.106,0.582
+sons-and-lovers.pdf,492,8.548,4.551,0.215,0.623
+sons-and-lovers.pdf,493,12.333,4.213,0.149,0.574
+sons-and-lovers.pdf,494,15.765,4.075,0.112,0.601
+sons-and-lovers.pdf,495,6.853,4.004,0.107,0.597
+sons-and-lovers.pdf,496,7.794,4.03,0.102,0.57
+sons-and-lovers.pdf,497,6.5,3.697,0.056,0.615
+sons-and-lovers.pdf,498,11.917,4.038,0.122,0.552
+sons-and-lovers.pdf,499,9.963,3.926,0.089,0.572
+sons-and-lovers.pdf,500,7.4,3.896,0.112,0.571
+sons-and-lovers.pdf,501,9.76,3.975,0.111,0.574
+sons-and-lovers.pdf,502,6.75,3.658,0.091,0.556
+sons-and-lovers.pdf,503,6.55,3.866,0.095,0.542
+sons-and-lovers.pdf,504,8.5,3.783,0.085,0.57
+sons-and-lovers.pdf,505,8.688,3.849,0.104,0.565
+sons-and-lovers.pdf,506,15.4,4.123,0.146,0.519
+sons-and-lovers.pdf,507,7.444,3.903,0.097,0.586
+sons-and-lovers.pdf,508,5.892,3.67,0.069,0.624
+sons-and-lovers.pdf,509,6.951,3.811,0.109,0.572
+sons-and-lovers.pdf,510,6.857,3.95,0.138,0.579
+sons-and-lovers.pdf,511,7.028,3.893,0.107,0.589
+sons-and-lovers.pdf,512,8.0,3.785,0.109,0.547
+sons-and-lovers.pdf,513,7.229,4.012,0.142,0.613
+sons-and-lovers.pdf,514,8.353,3.937,0.102,0.588
+sons-and-lovers.pdf,515,10.069,3.873,0.103,0.603
+sons-and-lovers.pdf,516,8.4,4.282,0.16,0.531
+sons-and-lovers.pdf,517,10.286,4.049,0.111,0.51
+sons-and-lovers.pdf,518,8.467,4.138,0.122,0.543
+sons-and-lovers.pdf,519,7.5,3.719,0.119,0.559
+sons-and-lovers.pdf,520,9.581,3.475,0.088,0.495
+sons-and-lovers.pdf,521,5.0,3.7,0.1,0.738
+sons-and-lovers.pdf,522,19.727,4.189,0.152,0.576
+sons-and-lovers.pdf,523,9.207,4.135,0.142,0.614
+sons-and-lovers.pdf,524,6.788,3.616,0.071,0.513
+sons-and-lovers.pdf,525,8.37,3.942,0.102,0.624
+sons-and-lovers.pdf,526,9.393,3.795,0.106,0.563
+sons-and-lovers.pdf,527,9.931,3.927,0.111,0.569
+sons-and-lovers.pdf,528,7.486,3.763,0.103,0.527
+sons-and-lovers.pdf,529,4.811,3.421,0.084,0.556
+sons-and-lovers.pdf,530,7.033,3.953,0.128,0.592
+sons-and-lovers.pdf,531,6.8,3.786,0.088,0.567
+sons-and-lovers.pdf,532,7.226,4.156,0.147,0.625
+sons-and-lovers.pdf,533,8.034,4.193,0.112,0.614
+sons-and-lovers.pdf,534,8.483,4.142,0.138,0.622
+sons-and-lovers.pdf,535,8.062,3.609,0.078,0.492
+sons-and-lovers.pdf,536,9.36,3.778,0.085,0.543
+sons-and-lovers.pdf,537,15.182,3.916,0.105,0.473
+sons-and-lovers.pdf,538,7.781,3.719,0.072,0.522
+sons-and-lovers.pdf,539,9.065,3.801,0.085,0.463
+sons-and-lovers.pdf,540,15.895,4.139,0.116,0.5
+sons-and-lovers.pdf,541,13.636,4.313,0.127,0.48
+sons-and-lovers.pdf,542,12.8,3.997,0.122,0.491
+sons-and-lovers.pdf,543,8.414,3.775,0.094,0.52
+sons-and-lovers.pdf,544,15.05,4.296,0.126,0.581
+sons-and-lovers.pdf,545,10.917,4.156,0.126,0.588
+sons-and-lovers.pdf,546,10.72,4.209,0.131,0.571
+sons-and-lovers.pdf,547,12.087,4.349,0.191,0.572
+sons-and-lovers.pdf,548,12.619,3.747,0.102,0.517
+sons-and-lovers.pdf,549,6.844,3.685,0.114,0.498
+sons-and-lovers.pdf,550,11.783,3.675,0.103,0.52
+sons-and-lovers.pdf,551,11.111,3.773,0.097,0.503
+sons-and-lovers.pdf,552,16.056,4.097,0.121,0.574
+sons-and-lovers.pdf,553,7.621,3.905,0.104,0.552
+sons-and-lovers.pdf,554,9.286,3.608,0.085,0.496
+sons-and-lovers.pdf,555,11.227,3.874,0.109,0.575
+sons-and-lovers.pdf,556,19.75,4.345,0.142,0.563
+sons-and-lovers.pdf,557,10.519,4.232,0.155,0.592
+sons-and-lovers.pdf,558,12.042,3.969,0.125,0.519
+sons-and-lovers.pdf,559,17.722,4.307,0.163,0.53
+sons-and-lovers.pdf,560,11.556,3.971,0.109,0.522
+sons-and-lovers.pdf,561,9.607,3.896,0.108,0.535
+sons-and-lovers.pdf,562,10.429,3.873,0.089,0.51
+sons-and-lovers.pdf,563,11.172,4.034,0.114,0.525
+sons-and-lovers.pdf,564,8.867,3.842,0.083,0.549
+sons-and-lovers.pdf,565,7.182,3.768,0.093,0.586
+sons-and-lovers.pdf,566,7.353,3.744,0.088,0.564
+sons-and-lovers.pdf,567,7.233,3.797,0.083,0.548
+sons-and-lovers.pdf,568,9.133,3.96,0.088,0.595
+sons-and-lovers.pdf,569,8.235,3.843,0.1,0.568
+sons-and-lovers.pdf,570,6.658,4.075,0.123,0.585
+sons-and-lovers.pdf,571,6.605,3.801,0.084,0.566
+sons-and-lovers.pdf,572,8.931,3.649,0.069,0.579
+sons-and-lovers.pdf,573,6.5,3.833,0.094,0.573
+sons-and-lovers.pdf,574,7.571,3.623,0.087,0.536
+sons-and-lovers.pdf,575,8.706,3.784,0.095,0.497
+sons-and-lovers.pdf,576,10.0,3.881,0.119,0.578
+sons-and-lovers.pdf,577,7.974,3.807,0.061,0.54
+sons-and-lovers.pdf,579,10.1,3.614,0.084,0.579
+sons-and-lovers.pdf,580,8.065,3.84,0.112,0.608
+sons-and-lovers.pdf,581,6.541,3.901,0.107,0.62
+sons-and-lovers.pdf,582,6.625,3.84,0.099,0.542
+sons-and-lovers.pdf,583,7.774,3.763,0.087,0.552
+sons-and-lovers.pdf,584,8.714,3.873,0.094,0.578
+sons-and-lovers.pdf,585,5.838,3.894,0.144,0.546
+sons-and-lovers.pdf,586,7.595,3.836,0.096,0.477
+sons-and-lovers.pdf,587,7.625,4.066,0.131,0.631
+sons-and-lovers.pdf,588,8.645,3.817,0.112,0.563
+sons-and-lovers.pdf,589,12.458,4.114,0.114,0.572
+sons-and-lovers.pdf,590,10.179,4.14,0.126,0.579
+sons-and-lovers.pdf,591,8.871,4.08,0.12,0.531
+sons-and-lovers.pdf,592,7.97,3.913,0.11,0.536
+sons-and-lovers.pdf,593,8.462,3.479,0.061,0.464
+sons-and-lovers.pdf,594,8.481,3.83,0.083,0.585
+sons-and-lovers.pdf,595,7.7,3.857,0.1,0.563
+sons-and-lovers.pdf,596,9.269,3.855,0.095,0.606
+sons-and-lovers.pdf,597,7.871,3.93,0.098,0.611
+sons-and-lovers.pdf,598,9.156,4.048,0.109,0.536
+sons-and-lovers.pdf,599,8.562,3.88,0.095,0.573
+sons-and-lovers.pdf,600,10.103,4.075,0.109,0.58
+sons-and-lovers.pdf,601,6.765,4.017,0.113,0.609
+sons-and-lovers.pdf,602,8.258,3.754,0.094,0.52
+sons-and-lovers.pdf,603,6.647,4.106,0.088,0.619
+sons-and-lovers.pdf,604,7.774,4.0,0.12,0.614
+sons-and-lovers.pdf,605,7.514,4.198,0.119,0.536
+sons-and-lovers.pdf,606,7.176,4.045,0.139,0.574
+sons-and-lovers.pdf,607,7.0,4.008,0.093,0.556
+sons-and-lovers.pdf,608,7.781,3.835,0.068,0.53
+sons-and-lovers.pdf,609,7.0,4.029,0.097,0.597
+sons-and-lovers.pdf,610,10.367,4.045,0.116,0.508
+sons-and-lovers.pdf,611,8.406,3.814,0.089,0.584
+sons-and-lovers.pdf,612,9.517,4.127,0.112,0.601
+sons-and-lovers.pdf,613,10.536,4.034,0.122,0.536
+sons-and-lovers.pdf,614,7.31,3.958,0.123,0.571
+sons-and-lovers.pdf,615,9.654,3.797,0.12,0.582
+sons-and-lovers.pdf,616,7.138,3.961,0.111,0.623
+sons-and-lovers.pdf,617,7.212,3.908,0.101,0.538
+sons-and-lovers.pdf,618,6.914,3.868,0.112,0.599
+sons-and-lovers.pdf,619,7.25,3.948,0.095,0.634
+sons-and-lovers.pdf,620,7.323,3.907,0.115,0.595
+sons-and-lovers.pdf,621,10.69,4.094,0.11,0.526
+sons-and-lovers.pdf,622,13.792,3.84,0.091,0.468
+sons-and-lovers.pdf,623,9.241,3.619,0.078,0.56
+sons-and-lovers.pdf,624,6.516,3.871,0.139,0.535
+sons-and-lovers.pdf,625,15.5,4.046,0.134,0.594
+sons-and-lovers.pdf,626,11.036,4.239,0.126,0.547
+sons-and-lovers.pdf,627,8.625,4.236,0.149,0.583
+sons-and-lovers.pdf,628,9.038,3.868,0.098,0.557
+sons-and-lovers.pdf,629,9.267,4.068,0.133,0.522
+sons-and-lovers.pdf,630,10.828,3.882,0.111,0.541
+sons-and-lovers.pdf,631,7.257,4.004,0.102,0.602
+sons-and-lovers.pdf,632,9.276,4.126,0.104,0.639
+sons-and-lovers.pdf,633,8.964,3.813,0.112,0.558
+sons-and-lovers.pdf,634,7.778,3.805,0.129,0.538
+sons-and-lovers.pdf,635,8.419,4.0,0.088,0.598
+sons-and-lovers.pdf,636,8.767,3.76,0.103,0.555
+sons-and-lovers.pdf,637,8.676,3.854,0.093,0.483
+sons-and-lovers.pdf,638,8.571,3.983,0.143,0.5
+sons-and-lovers.pdf,639,9.281,4.064,0.138,0.535
+sons-and-lovers.pdf,640,12.577,4.083,0.104,0.541
+sons-and-lovers.pdf,641,10.611,4.34,0.168,0.66
+the-prince.pdf,3,18.5,4.797,0.234,0.617
+the-prince.pdf,4,33.778,4.368,0.188,0.579
+the-prince.pdf,5,28.727,4.231,0.155,0.573
+the-prince.pdf,6,50.333,4.358,0.179,0.566
+the-prince.pdf,7,29.5,4.515,0.217,0.583
+the-prince.pdf,8,31.556,4.577,0.197,0.556
+the-prince.pdf,9,47.667,4.322,0.192,0.64
+the-prince.pdf,10,32.444,4.479,0.202,0.565
+the-prince.pdf,11,32.222,4.528,0.221,0.576
+the-prince.pdf,12,30.667,4.38,0.181,0.616
+the-prince.pdf,13,29.4,4.673,0.241,0.595
+the-prince.pdf,14,27.0,4.559,0.192,0.589
+the-prince.pdf,15,24.583,4.539,0.2,0.607
+the-prince.pdf,16,7.741,5.268,0.325,0.737
+the-prince.pdf,17,68.75,4.651,0.211,0.629
+the-prince.pdf,18,44.75,4.436,0.19,0.57
+the-prince.pdf,19,24.167,4.241,0.159,0.579
+the-prince.pdf,20,35.5,4.577,0.225,0.606
+the-prince.pdf,21,27.0,4.352,0.204,0.778
+the-prince.pdf,22,32.714,4.537,0.21,0.624
+the-prince.pdf,23,30.0,4.41,0.173,0.563
+the-prince.pdf,24,52.333,4.331,0.162,0.513
+the-prince.pdf,25,40.375,4.099,0.139,0.514
+the-prince.pdf,26,39.875,4.301,0.176,0.502
+the-prince.pdf,27,42.571,4.587,0.232,0.581
+the-prince.pdf,28,33.222,3.97,0.104,0.522
+the-prince.pdf,29,42.714,4.488,0.187,0.569
+the-prince.pdf,30,44.143,4.117,0.155,0.489
+the-prince.pdf,31,37.375,4.221,0.147,0.562
+the-prince.pdf,32,28.429,4.487,0.201,0.638
+the-prince.pdf,33,36.75,4.653,0.19,0.735
+the-prince.pdf,34,34.778,4.383,0.182,0.47
+the-prince.pdf,35,39.375,4.219,0.133,0.543
+the-prince.pdf,36,36.833,4.683,0.181,0.597
+the-prince.pdf,37,33.8,4.29,0.16,0.645
+the-prince.pdf,38,33.778,4.375,0.164,0.556
+the-prince.pdf,40,40.0,4.135,0.155,0.6
+the-prince.pdf,41,27.818,4.477,0.19,0.556
+the-prince.pdf,42,26.455,4.584,0.213,0.546
+the-prince.pdf,43,31.889,4.659,0.23,0.554
+the-prince.pdf,44,20.875,4.072,0.18,0.647
+the-prince.pdf,45,29.167,4.354,0.171,0.646
+the-prince.pdf,46,35.875,4.686,0.185,0.575
+the-prince.pdf,47,29.8,4.409,0.201,0.597
+the-prince.pdf,48,35.0,4.241,0.143,0.498
+the-prince.pdf,49,37.875,4.442,0.178,0.521
+the-prince.pdf,50,29.5,4.336,0.2,0.586
+the-prince.pdf,51,21.2,4.242,0.173,0.553
+the-prince.pdf,52,34.0,4.235,0.157,0.542
+the-prince.pdf,53,31.0,4.181,0.165,0.555
+the-prince.pdf,54,22.7,4.366,0.185,0.568
+the-prince.pdf,55,23.375,4.444,0.246,0.679
+the-prince.pdf,56,27.182,4.525,0.227,0.562
+the-prince.pdf,57,33.222,4.592,0.217,0.622
+the-prince.pdf,58,49.167,4.563,0.22,0.559
+the-prince.pdf,59,27.727,4.485,0.193,0.597
+the-prince.pdf,60,45.6,4.167,0.149,0.592
+the-prince.pdf,61,31.375,4.371,0.163,0.53
+the-prince.pdf,62,39.375,4.206,0.14,0.492
+the-prince.pdf,63,44.571,4.215,0.151,0.506
+the-prince.pdf,64,26.0,4.493,0.21,0.57
+the-prince.pdf,65,38.4,4.323,0.167,0.615
+the-prince.pdf,66,32.167,4.42,0.207,0.585
+the-prince.pdf,67,52.667,4.32,0.146,0.551
+the-prince.pdf,68,58.0,4.228,0.147,0.565
+the-prince.pdf,69,30.0,4.695,0.229,0.624
+the-prince.pdf,70,42.857,4.447,0.177,0.553
+the-prince.pdf,71,29.4,4.473,0.17,0.52
+the-prince.pdf,72,28.25,4.487,0.195,0.69
+the-prince.pdf,73,26.0,4.317,0.144,0.558
+the-prince.pdf,74,34.667,4.228,0.17,0.567
+the-prince.pdf,75,31.2,4.285,0.163,0.535
+the-prince.pdf,76,28.0,4.675,0.239,0.589
+the-prince.pdf,77,39.125,4.319,0.15,0.543
+the-prince.pdf,78,11.8,4.669,0.216,0.64
+the-prince.pdf,79,30.3,4.495,0.191,0.554
+the-prince.pdf,80,12.833,4.416,0.221,0.792
+the-prince.pdf,81,22.222,4.27,0.155,0.665
+the-prince.pdf,82,39.0,4.59,0.183,0.549
+the-prince.pdf,83,37.375,4.418,0.187,0.555
+the-prince.pdf,84,36.0,4.486,0.181,0.556
+the-prince.pdf,85,25.333,4.388,0.158,0.582
+the-prince.pdf,86,35.5,4.634,0.197,0.775
+the-prince.pdf,87,27.75,4.126,0.167,0.568
+the-prince.pdf,88,38.25,4.363,0.183,0.487
+the-prince.pdf,89,26.727,4.272,0.167,0.578
+the-prince.pdf,90,33.333,4.56,0.21,0.69
+the-prince.pdf,91,38.6,4.228,0.161,0.637
+the-prince.pdf,92,76.0,4.516,0.237,0.546
+the-prince.pdf,94,36.5,4.429,0.219,0.575
+the-prince.pdf,95,44.857,4.232,0.159,0.522
+the-prince.pdf,96,33.222,4.482,0.201,0.502
+the-prince.pdf,97,25.857,4.691,0.221,0.646
+the-prince.pdf,98,27.1,4.376,0.181,0.605
+the-prince.pdf,99,45.286,4.401,0.189,0.565
+the-prince.pdf,100,33.778,4.516,0.197,0.559
+the-prince.pdf,102,21.889,4.396,0.183,0.589
+the-prince.pdf,103,21.857,4.353,0.186,0.611
+the-prince.pdf,104,27.5,4.444,0.207,0.56
+the-prince.pdf,105,21.571,4.43,0.209,0.586
+the-prince.pdf,106,28.375,4.053,0.132,0.551
+the-prince.pdf,107,36.167,4.309,0.184,0.608
+the-prince.pdf,108,51.333,4.409,0.201,0.481
+the-prince.pdf,109,44.857,4.318,0.191,0.554
+the-prince.pdf,110,34.25,4.595,0.212,0.569
+the-prince.pdf,111,44.571,4.349,0.183,0.535
+the-prince.pdf,112,56.6,4.763,0.208,0.562
+the-prince.pdf,113,48.333,4.462,0.176,0.603
+the-prince.pdf,114,60.0,4.327,0.21,0.557
+the-prince.pdf,115,33.111,4.466,0.215,0.527
+the-prince.pdf,116,52.333,4.178,0.162,0.541
+the-prince.pdf,117,43.286,4.548,0.208,0.554
+the-prince.pdf,118,50.0,4.457,0.19,0.5
+the-prince.pdf,119,45.75,4.41,0.186,0.628
+the-prince.pdf,120,20.857,4.911,0.226,0.664
+the-prince.pdf,121,30.3,4.469,0.172,0.545
+the-prince.pdf,122,43.143,4.57,0.222,0.576
+the-prince.pdf,123,38.25,4.435,0.186,0.549
+the-prince.pdf,124,34.222,4.364,0.166,0.526
+the-prince.pdf,125,20.846,4.421,0.159,0.557
+the-prince.pdf,126,25.875,4.319,0.193,0.618
+the-prince.pdf,127,37.875,4.383,0.191,0.587
+the-prince.pdf,128,34.222,4.312,0.188,0.545
+the-prince.pdf,129,34.889,4.252,0.182,0.551
+the-prince.pdf,130,23.083,4.466,0.202,0.599
+the-prince.pdf,131,17.143,4.683,0.258,0.792
+the-prince.pdf,132,30.286,4.467,0.217,0.528
+the-prince.pdf,133,51.8,4.158,0.151,0.506
+the-prince.pdf,134,36.333,4.39,0.179,0.569
+the-prince.pdf,135,26.636,4.3,0.184,0.611
+the-prince.pdf,136,35.286,4.109,0.13,0.518
+the-prince.pdf,137,39.0,4.06,0.115,0.564
+the-prince.pdf,138,50.667,4.303,0.161,0.569
+the-prince.pdf,140,26.125,4.258,0.187,0.589
+the-prince.pdf,141,33.889,4.354,0.167,0.593
+the-prince.pdf,142,52.333,4.28,0.182,0.484
+the-prince.pdf,143,35.25,4.635,0.184,0.564
+the-prince.pdf,144,30.75,4.301,0.195,0.667
+the-prince.pdf,145,51.25,4.317,0.195,0.546
+the-prince.pdf,146,29.8,4.232,0.168,0.57
+the-prince.pdf,147,28.727,4.278,0.171,0.56
+the-prince.pdf,148,31.0,4.581,0.186,0.634
+the-prince.pdf,149,23.231,4.513,0.185,0.586
+the-prince.pdf,150,39.167,4.502,0.191,0.651
+the-prince.pdf,151,36.75,4.558,0.207,0.558
+the-prince.pdf,152,42.571,4.48,0.198,0.54
+the-prince.pdf,153,37.5,4.437,0.167,0.543
+the-prince.pdf,154,38.125,4.328,0.177,0.544
+the-prince.pdf,155,40.143,4.555,0.214,0.566
+the-prince.pdf,156,40.125,4.265,0.162,0.498
+the-prince.pdf,157,32.333,4.405,0.203,0.533
+the-prince.pdf,158,34.625,4.617,0.202,0.563
+the-prince.pdf,159,39.429,4.315,0.163,0.572
+the-prince.pdf,160,30.9,4.265,0.178,0.57
+the-prince.pdf,161,25.667,4.406,0.192,0.568
+the-prince.pdf,162,38.125,4.416,0.184,0.538
+the-prince.pdf,163,33.889,4.482,0.19,0.587
+the-prince.pdf,164,32.556,4.672,0.195,0.549
+the-prince.pdf,165,28.0,4.503,0.195,0.565
+the-prince.pdf,166,30.5,4.485,0.203,0.561
+the-prince.pdf,167,34.0,4.389,0.16,0.569
+the-prince.pdf,168,27.909,4.44,0.195,0.531
+the-prince.pdf,169,27.0,4.596,0.226,0.562
+the-prince.pdf,170,28.2,4.791,0.248,0.553
+the-prince.pdf,171,32.667,4.724,0.235,0.548
+the-prince.pdf,172,33.111,4.581,0.208,0.56
+the-prince.pdf,173,27.545,4.492,0.211,0.551
+the-prince.pdf,174,29.5,4.586,0.214,0.553
+the-prince.pdf,175,24.5,4.548,0.204,0.622
+the-prince.pdf,176,31.3,4.412,0.198,0.546
+the-prince.pdf,177,33.444,4.525,0.196,0.591
+the-prince.pdf,178,33.111,4.601,0.221,0.564
+the-prince.pdf,179,24.583,4.664,0.2,0.627
+the-prince.pdf,180,30.556,4.916,0.28,0.618
+the-prince.pdf,181,36.0,4.66,0.215,0.569
+the-prince.pdf,182,32.222,4.548,0.197,0.541
+the-prince.pdf,183,34.778,4.412,0.153,0.505
+the-prince.pdf,184,34.778,4.39,0.188,0.527
+the-prince.pdf,185,31.9,4.295,0.179,0.564
+the-prince.pdf,186,38.5,4.315,0.182,0.539
+the-prince.pdf,187,31.8,4.362,0.189,0.569
+the-prince.pdf,188,26.25,4.089,0.14,0.514
+the-prince.pdf,189,25.846,4.083,0.155,0.554
+the-prince.pdf,190,27.083,4.062,0.126,0.551
+the-prince.pdf,191,30.364,3.991,0.123,0.533
+the-prince.pdf,192,32.3,4.065,0.152,0.523
+the-prince.pdf,193,25.385,3.912,0.136,0.521
+the-prince.pdf,194,46.0,3.793,0.12,0.685

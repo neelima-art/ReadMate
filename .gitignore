@@ -1,0 +1,67 @@
+
+# ==============================
+# READMATE - GITIGNORE
+# ==============================
+
+# Secrets and API keys
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.json
+
+# Python environments
+venv/
+.venv/
+venv-ibmz/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Node.js dependencies
+node_modules/
+node_modules_windows_backup/
+.npm/
+.vite/
+
+# Frontend build output
+dist/
+build/
+coverage/
+
+# SQLite databases and temporary files
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Uploaded books and user data
+uploads/
+backend/uploads/
+
+# Local backups
+*.bak
+*.backup
+*.tar.gz
+*.zip
+*.before_openai_fix
+
+# Logs
+*.log
+logs/
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
